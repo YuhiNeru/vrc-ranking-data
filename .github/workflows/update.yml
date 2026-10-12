@@ -1,0 +1,32 @@
+name: Update ranking data
+on:
+  schedule:
+    - cron: '57 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: ranking-data-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: Download and validate public snapshot
+        run: node scripts/update.mjs
+      - name: Commit newer observations
+        run: |
+          git add latest.json latest.csv
+          if git diff --cached --quiet; then
+            echo 'No new observation to publish.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update hourly ranking snapshot'
+          git push

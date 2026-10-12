@@ -17,6 +17,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+      - name: Test stale-data detection
+        run: node --test scripts/freshness.test.mjs
       - name: Download and validate public snapshot
         run: node scripts/update.mjs
       - name: Commit newer observations

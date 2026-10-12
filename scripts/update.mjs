@@ -1,11 +1,13 @@
 import {readFile,writeFile} from 'node:fs/promises';
 import {validateSnapshot} from './validate.mjs';
+import {ensureFreshSnapshot} from './freshness.mjs';
 const source='https://vrc-ranking-board.vrc-ranking-board.workers.dev/api/latest';
 const response=await fetch(source,{signal:AbortSignal.timeout(30000)});
 if(!response.ok)throw new Error(`Source unavailable (${response.status}); previous data retained`);
 const text=await response.text();
 if(Buffer.byteLength(text)>3*1024*1024)throw new Error('Snapshot too large');
 const payload=validateSnapshot(JSON.parse(text));
+ensureFreshSnapshot(payload);
 let old;
 try{old=JSON.parse(await readFile('latest.json','utf8'));}catch(error){if(error.code!=='ENOENT')throw error;}
 if(old&&Date.parse(old.observedAt)>=Date.parse(payload.observedAt)){

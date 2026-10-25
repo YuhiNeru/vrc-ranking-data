@@ -1,10 +1,10 @@
 {
   "version": 1,
   "demo": false,
-  "hour": "2026-10-25T09:00:00.000Z",
-  "observedAt": "2026-10-25T09:20:55.000Z",
+  "hour": "2026-10-25T10:00:00.000Z",
+  "observedAt": "2026-10-25T10:23:02.000Z",
   "candidateCount": 496,
-  "eligibleCount": 128,
+  "eligibleCount": 137,
   "failedCount": 0,
   "worlds": [
     {
@@ -16,12 +16,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_370d9b5a-5f47-450d-bf20-7bd3de0e4279/2/256",
-      "total": 2075,
-      "public": 195,
-      "private": 1880,
-      "deltaTotal": -37,
-      "deltaPublic": -7,
-      "observedAt": "2026-10-25T09:07:48Z",
+      "total": 2156,
+      "public": 197,
+      "private": 1959,
+      "deltaTotal": 81,
+      "deltaPublic": 2,
+      "observedAt": "2026-10-25T10:09:46Z",
       "history": [
         [
           1792897879,
@@ -64,6 +64,12 @@
           2075,
           195,
           1880
+        ],
+        [
+          1792922986,
+          2156,
+          197,
+          1959
         ]
       ]
     },
@@ -77,12 +83,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_258b63ba-766c-4024-bc88-cc0bdf47b759/3/256",
-      "total": 1298,
-      "public": 65,
-      "private": 1233,
-      "deltaTotal": 12,
-      "deltaPublic": -8,
-      "observedAt": "2026-10-25T09:08:31Z",
+      "total": 1347,
+      "public": 68,
+      "private": 1279,
+      "deltaTotal": 49,
+      "deltaPublic": 3,
+      "observedAt": "2026-10-25T10:10:26Z",
       "history": [
         [
           1792898257,
@@ -125,6 +131,12 @@
           1298,
           65,
           1233
+        ],
+        [
+          1792923026,
+          1347,
+          68,
+          1279
         ]
       ]
     },
@@ -137,12 +149,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_69f594ec-309b-4e0f-b24a-687f05bded67/1/256",
-      "total": 1120,
-      "public": 67,
-      "private": 1053,
-      "deltaTotal": -155,
-      "deltaPublic": -45,
-      "observedAt": "2026-10-25T09:08:19Z",
+      "total": 1101,
+      "public": 63,
+      "private": 1038,
+      "deltaTotal": -19,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:10:13Z",
       "history": [
         [
           1792898037,
@@ -185,6 +197,54 @@
           1120,
           67,
           1053
+        ],
+        [
+          1792923013,
+          1101,
+          63,
+          1038
+        ]
+      ]
+    },
+    {
+      "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
+      "name": "Avatar Testing Chamber",
+      "author": "Ziggor",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/14/256",
+      "total": 627,
+      "public": 2,
+      "private": 625,
+      "deltaTotal": 15,
+      "deltaPublic": 1,
+      "observedAt": "2026-10-25T10:17:14Z",
+      "history": [
+        [
+          1792905593,
+          566,
+          3,
+          563
+        ],
+        [
+          1792916226,
+          656,
+          1,
+          655
+        ],
+        [
+          1792919895,
+          612,
+          1,
+          611
+        ],
+        [
+          1792923434,
+          627,
+          2,
+          625
         ]
       ]
     },
@@ -197,12 +257,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_45a85574-f9be-4f00-a14a-01296ab18623/6/256",
-      "total": 701,
-      "public": 109,
-      "private": 592,
-      "deltaTotal": -36,
-      "deltaPublic": -4,
-      "observedAt": "2026-10-25T09:08:02Z",
+      "total": 612,
+      "public": 108,
+      "private": 504,
+      "deltaTotal": -89,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:09:55Z",
       "history": [
         [
           1792897903,
@@ -245,42 +305,12 @@
           701,
           109,
           592
-        ]
-      ]
-    },
-    {
-      "id": "wrld_a5e9ec13-36b1-4e63-ae0c-dab9023401f9",
-      "name": "Avatar Testing Chamber",
-      "author": "Ziggor",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_67bfd973-e2fd-4780-84a7-1d999c7cbf19/14/256",
-      "total": 612,
-      "public": 1,
-      "private": 611,
-      "deltaTotal": -44,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:18:15Z",
-      "history": [
-        [
-          1792905593,
-          566,
-          3,
-          563
         ],
         [
-          1792916226,
-          656,
-          1,
-          655
-        ],
-        [
-          1792919895,
+          1792922995,
           612,
-          1,
-          611
+          108,
+          504
         ]
       ]
     },
@@ -294,12 +324,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_00f1cc4a-99c3-433a-9da3-7431b6ebb4b9/8/256",
-      "total": 451,
-      "public": 440,
-      "private": 11,
-      "deltaTotal": -11,
-      "deltaPublic": -11,
-      "observedAt": "2026-10-25T09:07:34Z",
+      "total": 438,
+      "public": 423,
+      "private": 15,
+      "deltaTotal": -13,
+      "deltaPublic": -17,
+      "observedAt": "2026-10-25T10:09:34Z",
       "history": [
         [
           1792897833,
@@ -342,66 +372,12 @@
           451,
           440,
           11
-        ]
-      ]
-    },
-    {
-      "id": "wrld_9ea20762-e35a-43f9-9d3d-f3b7715a18be",
-      "name": "LoadMineAidC v1․1․2",
-      "author": "身身身ちゃん",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1c62ea61-923a-4751-b8df-c22cd1938d0f/1/256",
-      "total": 292,
-      "public": 20,
-      "private": 272,
-      "deltaTotal": -47,
-      "deltaPublic": -10,
-      "observedAt": "2026-10-25T09:10:37Z",
-      "history": [
-        [
-          1792898585,
-          236,
-          21,
-          215
         ],
         [
-          1792901578,
-          253,
-          38,
-          215
-        ],
-        [
-          1792905122,
-          293,
-          34,
-          259
-        ],
-        [
-          1792908687,
-          325,
-          34,
-          291
-        ],
-        [
-          1792912322,
-          337,
-          35,
-          302
-        ],
-        [
-          1792915909,
-          339,
-          30,
-          309
-        ],
-        [
-          1792919437,
-          292,
-          20,
-          272
+          1792922974,
+          438,
+          423,
+          15
         ]
       ]
     },
@@ -414,12 +390,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2f25345e-fe2f-41b7-8331-245f825ca782/8/256",
-      "total": 243,
-      "public": 229,
-      "private": 14,
-      "deltaTotal": -18,
-      "deltaPublic": -23,
-      "observedAt": "2026-10-25T09:07:43Z",
+      "total": 261,
+      "public": 244,
+      "private": 17,
+      "deltaTotal": 18,
+      "deltaPublic": 15,
+      "observedAt": "2026-10-25T10:09:38Z",
       "history": [
         [
           1792897874,
@@ -462,6 +438,12 @@
           243,
           229,
           14
+        ],
+        [
+          1792922978,
+          261,
+          244,
+          17
         ]
       ]
     },
@@ -475,12 +457,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_14850c87-aff4-411e-b32b-4bcc75a6e817/2/256",
-      "total": 235,
-      "public": 233,
-      "private": 2,
-      "deltaTotal": 2,
-      "deltaPublic": 2,
-      "observedAt": "2026-10-25T09:07:39Z",
+      "total": 240,
+      "public": 240,
+      "private": 0,
+      "deltaTotal": 5,
+      "deltaPublic": 7,
+      "observedAt": "2026-10-25T10:09:42Z",
       "history": [
         [
           1792897947,
@@ -523,53 +505,78 @@
           235,
           233,
           2
+        ],
+        [
+          1792922982,
+          240,
+          240,
+          0
         ]
       ]
     },
     {
-      "id": "wrld_b972d858-46bb-4e6e-92e8-5792a529d283",
-      "name": "Frontier Archive",
-      "author": "Liwa Cafe",
+      "id": "wrld_9ea20762-e35a-43f9-9d3d-f3b7715a18be",
+      "name": "LoadMineAidC v1․1․2",
+      "author": "身身身ちゃん",
       "platforms": [
-        "pc"
+        "pc",
+        "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6ea930eb-f930-40ae-acf6-d9ce61d531a5/4/256",
-      "total": 214,
-      "public": 6,
-      "private": 208,
-      "deltaTotal": -7,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:16:19Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1c62ea61-923a-4751-b8df-c22cd1938d0f/1/256",
+      "total": 235,
+      "public": 18,
+      "private": 217,
+      "deltaTotal": -57,
+      "deltaPublic": -2,
+      "observedAt": "2026-10-25T10:12:02Z",
       "history": [
         [
-          1792905307,
-          191,
-          5,
-          186
-        ],
-        [
-          1792908929,
-          203,
-          6,
-          197
-        ],
-        [
-          1792912803,
-          214,
-          5,
-          209
-        ],
-        [
-          1792916235,
-          221,
-          6,
+          1792898585,
+          236,
+          21,
           215
         ],
         [
-          1792919779,
-          214,
-          6,
-          208
+          1792901578,
+          253,
+          38,
+          215
+        ],
+        [
+          1792905122,
+          293,
+          34,
+          259
+        ],
+        [
+          1792908687,
+          325,
+          34,
+          291
+        ],
+        [
+          1792912322,
+          337,
+          35,
+          302
+        ],
+        [
+          1792915909,
+          339,
+          30,
+          309
+        ],
+        [
+          1792919437,
+          292,
+          20,
+          272
+        ],
+        [
+          1792923122,
+          235,
+          18,
+          217
         ]
       ]
     },
@@ -583,12 +590,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_0043cc43-931c-4c4e-87a0-2e0e4622d320/3/256",
-      "total": 208,
-      "public": 10,
-      "private": 198,
-      "deltaTotal": 15,
-      "deltaPublic": 5,
-      "observedAt": "2026-10-25T09:11:40Z",
+      "total": 215,
+      "public": 11,
+      "private": 204,
+      "deltaTotal": 7,
+      "deltaPublic": 1,
+      "observedAt": "2026-10-25T10:12:42Z",
       "history": [
         [
           1792898979,
@@ -631,48 +638,12 @@
           208,
           10,
           198
-        ]
-      ]
-    },
-    {
-      "id": "wrld_3e016279-2717-4662-9eb6-3b62a5be80fc",
-      "name": "Reverie - プラネタリウムの夢",
-      "author": "うたたね！",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c4e8b7e5-9495-4d58-9ff4-27990745a866/5/256",
-      "total": 186,
-      "public": 1,
-      "private": 185,
-      "deltaTotal": -8,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:12:34Z",
-      "history": [
-        [
-          1792908902,
-          195,
-          6,
-          189
         ],
         [
-          1792912549,
-          204,
-          1,
-          203
-        ],
-        [
-          1792916199,
-          194,
-          2,
-          192
-        ],
-        [
-          1792919554,
-          186,
-          1,
-          185
+          1792923162,
+          215,
+          11,
+          204
         ]
       ]
     },
@@ -686,12 +657,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_af3b84ca-d786-4c89-a792-ad848440264b/115/256",
-      "total": 160,
-      "public": 146,
-      "private": 14,
-      "deltaTotal": -22,
-      "deltaPublic": -20,
-      "observedAt": "2026-10-25T09:07:52Z",
+      "total": 189,
+      "public": 165,
+      "private": 24,
+      "deltaTotal": 29,
+      "deltaPublic": 19,
+      "observedAt": "2026-10-25T10:09:51Z",
       "history": [
         [
           1792897934,
@@ -734,430 +705,172 @@
           160,
           146,
           14
+        ],
+        [
+          1792922991,
+          189,
+          165,
+          24
         ]
       ]
     },
     {
-      "id": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
-      "name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
-      "author": "りくち_",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e4b3423d-4f15-46ee-94a4-46c7362f4feb/5/256",
-      "total": 137,
-      "public": 60,
-      "private": 77,
-      "deltaTotal": 1,
-      "deltaPublic": 6,
-      "observedAt": "2026-10-25T09:08:45Z",
-      "history": [
-        [
-          1792898333,
-          141,
-          50,
-          91
-        ],
-        [
-          1792901543,
-          141,
-          51,
-          90
-        ],
-        [
-          1792905068,
-          159,
-          58,
-          101
-        ],
-        [
-          1792908660,
-          138,
-          52,
-          86
-        ],
-        [
-          1792912289,
-          141,
-          50,
-          91
-        ],
-        [
-          1792915877,
-          136,
-          54,
-          82
-        ],
-        [
-          1792919325,
-          137,
-          60,
-          77
-        ]
-      ]
-    },
-    {
-      "id": "wrld_b26c8a97-5c38-4dd2-9aa7-520eea7b3e69",
-      "name": "星の入り江 - Liminal Cove",
-      "author": "- Shigure -",
+      "id": "wrld_b972d858-46bb-4e6e-92e8-5792a529d283",
+      "name": "Frontier Archive",
+      "author": "Liwa Cafe",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e785c460-0276-45c3-b68b-2073d46addba/1/256",
-      "total": 135,
-      "public": 11,
-      "private": 124,
-      "deltaTotal": 16,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6ea930eb-f930-40ae-acf6-d9ce61d531a5/4/256",
+      "total": 179,
+      "public": 5,
+      "private": 174,
+      "deltaTotal": -35,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:14:45Z",
+      "history": [
+        [
+          1792905307,
+          191,
+          5,
+          186
+        ],
+        [
+          1792908929,
+          203,
+          6,
+          197
+        ],
+        [
+          1792912803,
+          214,
+          5,
+          209
+        ],
+        [
+          1792916235,
+          221,
+          6,
+          215
+        ],
+        [
+          1792919779,
+          214,
+          6,
+          208
+        ],
+        [
+          1792923285,
+          179,
+          5,
+          174
+        ]
+      ]
+    },
+    {
+      "id": "wrld_3e016279-2717-4662-9eb6-3b62a5be80fc",
+      "name": "Reverie - プラネタリウムの夢",
+      "author": "うたたね！",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c4e8b7e5-9495-4d58-9ff4-27990745a866/5/256",
+      "total": 161,
+      "public": 3,
+      "private": 158,
+      "deltaTotal": -25,
       "deltaPublic": 2,
-      "observedAt": "2026-10-25T09:10:56Z",
+      "observedAt": "2026-10-25T10:13:45Z",
       "history": [
         [
-          1792905570,
-          95,
-          9,
-          86
+          1792908902,
+          195,
+          6,
+          189
         ],
         [
-          1792916011,
-          119,
-          9,
-          110
+          1792912549,
+          204,
+          1,
+          203
         ],
         [
-          1792919456,
-          135,
-          11,
-          124
-        ]
-      ]
-    },
-    {
-      "id": "wrld_854926db-ae1a-4b24-9481-d5baa58e9f93",
-      "name": "BATTLEǃ",
-      "author": "voidcat",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_cf49baa7-eef8-433b-a68a-d10c1e45c477/2/256",
-      "total": 134,
-      "public": 13,
-      "private": 121,
-      "deltaTotal": -37,
-      "deltaPublic": -4,
-      "observedAt": "2026-10-25T09:10:51Z",
-      "history": [
-        [
-          1792898397,
-          336,
-          30,
-          306
-        ],
-        [
-          1792901547,
-          356,
-          36,
-          320
-        ],
-        [
-          1792905100,
-          386,
-          41,
-          345
-        ],
-        [
-          1792908664,
-          298,
-          34,
-          264
-        ],
-        [
-          1792912345,
-          246,
-          18,
-          228
-        ],
-        [
-          1792915993,
-          171,
-          17,
-          154
-        ],
-        [
-          1792919451,
-          134,
-          13,
-          121
-        ]
-      ]
-    },
-    {
-      "id": "wrld_d2ed93a6-ad2f-49fd-af9e-0a39970f778c",
-      "name": "Mango Flange Karaoke",
-      "author": "Enverex",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_991b79ab-290c-4c94-b64e-ade22973e8d8/2/256",
-      "total": 130,
-      "public": 17,
-      "private": 113,
-      "deltaTotal": -78,
-      "deltaPublic": -25,
-      "observedAt": "2026-10-25T09:10:15Z",
-      "history": [
-        [
-          1792898159,
-          313,
-          70,
-          243
-        ],
-        [
-          1792901534,
-          296,
-          53,
-          243
-        ],
-        [
-          1792905148,
-          238,
-          27,
-          211
-        ],
-        [
-          1792912298,
-          236,
-          44,
+          1792916199,
+          194,
+          2,
           192
         ],
         [
-          1792915896,
-          208,
-          42,
-          166
+          1792919554,
+          186,
+          1,
+          185
         ],
         [
-          1792919415,
-          130,
-          17,
-          113
+          1792923225,
+          161,
+          3,
+          158
         ]
       ]
     },
     {
-      "id": "wrld_d35776bf-48d7-4359-b8a0-9f04c883437e",
-      "name": "MOOROOM for Two",
-      "author": "ムーニー",
+      "id": "wrld_b8562984-4c23-4374-9421-47e1495de24b",
+      "name": "for Two",
+      "author": "green101",
       "platforms": [
-        "ios",
-        "pc",
-        "quest"
+        "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_955876c5-dc3a-4260-b657-837c1535b63c/3/256",
-      "total": 130,
-      "public": 63,
-      "private": 67,
-      "deltaTotal": -30,
-      "deltaPublic": -12,
-      "observedAt": "2026-10-25T09:08:11Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d752eeda-3429-4e6a-8531-8522b613cfb9/8/256",
+      "total": 159,
+      "public": 26,
+      "private": 133,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:10:54Z",
       "history": [
         [
-          1792898024,
-          126,
-          52,
-          74
+          1792898493,
+          258,
+          27,
+          231
         ],
         [
-          1792901475,
-          125,
-          58,
-          67
+          1792901587,
+          217,
+          24,
+          193
         ],
         [
-          1792905010,
-          163,
-          82,
-          81
+          1792905109,
+          212,
+          29,
+          183
         ],
         [
-          1792908611,
-          139,
-          68,
-          71
+          1792908706,
+          180,
+          30,
+          150
         ],
         [
-          1792912221,
-          167,
-          90,
-          77
+          1792912308,
+          180,
+          30,
+          150
         ],
         [
-          1792915827,
-          160,
-          75,
-          85
+          1792915918,
+          179,
+          30,
+          149
         ],
         [
-          1792919291,
-          130,
-          63,
-          67
-        ]
-      ]
-    },
-    {
-      "id": "wrld_05da9a75-947a-4e7c-bccd-8f822969abc1",
-      "name": "DEADLIGHT",
-      "author": "Bombae",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_77c39306-dcf6-4ca8-94d7-18b1217c77ab/4/256",
-      "total": 118,
-      "public": 47,
-      "private": 71,
-      "deltaTotal": -37,
-      "deltaPublic": 13,
-      "observedAt": "2026-10-25T09:08:36Z",
-      "history": [
-        [
-          1792898078,
-          438,
-          73,
-          365
-        ],
-        [
-          1792901493,
-          346,
-          76,
-          270
-        ],
-        [
-          1792905032,
-          329,
-          70,
-          259
-        ],
-        [
-          1792908682,
-          267,
-          41,
-          226
-        ],
-        [
-          1792912285,
-          222,
-          42,
-          180
-        ],
-        [
-          1792915931,
-          155,
-          34,
-          121
-        ],
-        [
-          1792919316,
-          118,
-          47,
-          71
-        ]
-      ]
-    },
-    {
-      "id": "wrld_be8df8df-fdb1-42dd-812b-261ee8fdf34a",
-      "name": "MoonLight",
-      "author": "-コウ-",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_977aaff5-a208-48c4-a00d-282606944b3f/9/256",
-      "total": 112,
-      "public": 5,
-      "private": 107,
-      "deltaTotal": 15,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:14:08Z",
-      "history": [
-        [
-          1792916069,
-          97,
-          6,
-          91
-        ],
-        [
-          1792919648,
-          112,
-          5,
-          107
-        ]
-      ]
-    },
-    {
-      "id": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
-      "name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
-      "author": "エンジンかずみ",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a4538476-7cd0-448c-8587-8d49d9d7337b/15/256",
-      "total": 108,
-      "public": 107,
-      "private": 1,
-      "deltaTotal": 12,
-      "deltaPublic": 13,
-      "observedAt": "2026-10-25T09:07:57Z",
-      "history": [
-        [
-          1792898203,
-          63,
-          63,
-          0
-        ],
-        [
-          1792901530,
-          57,
-          56,
-          1
-        ],
-        [
-          1792905045,
-          73,
-          72,
-          1
-        ],
-        [
-          1792908620,
-          89,
-          88,
-          1
-        ],
-        [
-          1792912230,
-          96,
-          93,
-          3
-        ],
-        [
-          1792915840,
-          96,
-          94,
-          2
-        ],
-        [
-          1792919277,
-          108,
-          107,
-          1
+          1792923054,
+          159,
+          26,
+          133
         ]
       ]
     },
@@ -1171,12 +884,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ec42666e-76cf-44ea-a3f5-ad89e764309d/2/256",
-      "total": 103,
-      "public": 29,
-      "private": 74,
-      "deltaTotal": -38,
-      "deltaPublic": -22,
-      "observedAt": "2026-10-25T09:08:50Z",
+      "total": 155,
+      "public": 60,
+      "private": 95,
+      "deltaTotal": 52,
+      "deltaPublic": 31,
+      "observedAt": "2026-10-25T10:10:31Z",
       "history": [
         [
           1792898221,
@@ -1219,228 +932,186 @@
           103,
           29,
           74
+        ],
+        [
+          1792923031,
+          155,
+          60,
+          95
         ]
       ]
     },
     {
-      "id": "wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5",
-      "name": "VRC BOXING ［JP ⁄ EN ⁄ KR］",
-      "author": "ムシコロリ",
+      "id": "wrld_1af53798-92a3-4c3f-99ae-a7c42ec6084d",
+      "name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
+      "author": "りくち_",
       "platforms": [
-        "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_839a33af-94b1-4924-bab5-d6f4de81cf5c/22/256",
-      "total": 94,
-      "public": 25,
-      "private": 69,
-      "deltaTotal": -18,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e4b3423d-4f15-46ee-94a4-46c7362f4feb/5/256",
+      "total": 134,
+      "public": 55,
+      "private": 79,
+      "deltaTotal": -3,
       "deltaPublic": -5,
-      "observedAt": "2026-10-25T09:09:52Z",
+      "observedAt": "2026-10-25T10:10:44Z",
       "history": [
         [
-          1792897983,
-          249,
-          117,
-          132
+          1792898333,
+          141,
+          50,
+          91
         ],
         [
-          1792901466,
-          183,
-          70,
-          113
+          1792901543,
+          141,
+          51,
+          90
         ],
         [
-          1792905019,
-          216,
-          81,
-          135
+          1792905068,
+          159,
+          58,
+          101
         ],
         [
-          1792908598,
-          151,
-          62,
-          89
+          1792908660,
+          138,
+          52,
+          86
         ],
         [
-          1792912280,
+          1792912289,
+          141,
+          50,
+          91
+        ],
+        [
+          1792915877,
           136,
-          28,
-          108
-        ],
-        [
-          1792915900,
-          112,
-          30,
+          54,
           82
         ],
         [
-          1792919392,
-          94,
-          25,
-          69
+          1792919325,
+          137,
+          60,
+          77
+        ],
+        [
+          1792923044,
+          134,
+          55,
+          79
         ]
       ]
     },
     {
-      "id": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
-      "name": "［JP］Tutorial world",
-      "author": "tamsco274",
+      "id": "wrld_b26c8a97-5c38-4dd2-9aa7-520eea7b3e69",
+      "name": "星の入り江 - Liminal Cove",
+      "author": "- Shigure -",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e785c460-0276-45c3-b68b-2073d46addba/1/256",
+      "total": 120,
+      "public": 11,
+      "private": 109,
+      "deltaTotal": -15,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:13:50Z",
+      "history": [
+        [
+          1792905570,
+          95,
+          9,
+          86
+        ],
+        [
+          1792916011,
+          119,
+          9,
+          110
+        ],
+        [
+          1792919456,
+          135,
+          11,
+          124
+        ],
+        [
+          1792923230,
+          120,
+          11,
+          109
+        ]
+      ]
+    },
+    {
+      "id": "wrld_d35776bf-48d7-4359-b8a0-9f04c883437e",
+      "name": "MOOROOM for Two",
+      "author": "ムーニー",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c21e1df5-c53b-4878-b462-608ae900d80b/8/256",
-      "total": 94,
-      "public": 87,
-      "private": 7,
-      "deltaTotal": -21,
-      "deltaPublic": -15,
-      "observedAt": "2026-10-25T09:08:06Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_955876c5-dc3a-4260-b657-837c1535b63c/3/256",
+      "total": 115,
+      "public": 52,
+      "private": 63,
+      "deltaTotal": -15,
+      "deltaPublic": -11,
+      "observedAt": "2026-10-25T10:10:40Z",
       "history": [
         [
-          1792898032,
-          93,
-          86,
-          7
+          1792898024,
+          126,
+          52,
+          74
         ],
         [
-          1792901484,
-          85,
-          83,
-          2
+          1792901475,
+          125,
+          58,
+          67
         ],
         [
-          1792905024,
-          98,
-          89,
-          9
-        ],
-        [
-          1792908624,
-          77,
-          72,
-          5
-        ],
-        [
-          1792912234,
-          93,
-          83,
-          10
-        ],
-        [
-          1792915823,
-          115,
-          102,
-          13
-        ],
-        [
-          1792919286,
-          94,
-          87,
-          7
-        ]
-      ]
-    },
-    {
-      "id": "wrld_831d5ce9-c27c-434a-abcc-c7ca819dce3e",
-      "name": "夜のカクテルラウンジ 『Serif Mixology』",
-      "author": "やけい - Yakei",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d5ad6663-7103-4e3b-b6f3-084bf3a41aef/3/256",
-      "total": 92,
-      "public": 6,
-      "private": 86,
-      "deltaTotal": -30,
-      "deltaPublic": 1,
-      "observedAt": "2026-10-25T09:13:35Z",
-      "history": [
-        [
-          1792908770,
-          107,
-          15,
-          92
-        ],
-        [
-          1792912462,
-          90,
-          9,
+          1792905010,
+          163,
+          82,
           81
         ],
         [
-          1792916212,
-          122,
-          5,
-          117
+          1792908611,
+          139,
+          68,
+          71
         ],
         [
-          1792919615,
-          92,
-          6,
-          86
-        ]
-      ]
-    },
-    {
-      "id": "wrld_f1d95348-8cfa-45c2-b96b-585bda930d2b",
-      "name": "NIGHTIDEv2․1․0_放置育成RPG",
-      "author": "もこみる",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_84f0bab4-cb28-456a-92d0-53cc406725f9/10/256",
-      "total": 91,
-      "public": 49,
-      "private": 42,
-      "deltaTotal": 2,
-      "deltaPublic": 8,
-      "observedAt": "2026-10-25T09:08:54Z",
-      "history": [
-        [
-          1792898402,
-          86,
-          43,
-          43
-        ],
-        [
-          1792901569,
-          88,
-          40,
-          48
-        ],
-        [
-          1792905126,
+          1792912221,
+          167,
           90,
-          37,
-          53
+          77
         ],
         [
-          1792908696,
-          92,
-          40,
-          52
+          1792915827,
+          160,
+          75,
+          85
         ],
         [
-          1792912317,
-          86,
-          40,
-          46
+          1792919291,
+          130,
+          63,
+          67
         ],
         [
-          1792915905,
-          89,
-          41,
-          48
-        ],
-        [
-          1792919334,
-          91,
-          49,
-          42
+          1792923040,
+          115,
+          52,
+          63
         ]
       ]
     },
@@ -1454,12 +1125,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2c9d13e3-39c8-46ec-a266-387c49adfe3c/1/256",
-      "total": 90,
-      "public": 14,
-      "private": 76,
-      "deltaTotal": -75,
-      "deltaPublic": -7,
-      "observedAt": "2026-10-25T09:11:31Z",
+      "total": 102,
+      "public": 13,
+      "private": 89,
+      "deltaTotal": 12,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:13:00Z",
       "history": [
         [
           1792898303,
@@ -1502,74 +1173,12 @@
           90,
           14,
           76
-        ]
-      ]
-    },
-    {
-      "id": "wrld_e8db4bf4-9da9-4dd4-9dc3-1cd56820f038",
-      "name": "Tiharuum - ちはるーむ",
-      "author": "Tiharu",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a1489a9c-dced-49d2-b267-9a1d643c45be/18/256",
-      "total": 86,
-      "public": 0,
-      "private": 86,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:17:21Z",
-      "history": [
-        [
-          1792919841,
-          86,
-          0,
-          86
-        ]
-      ]
-    },
-    {
-      "id": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
-      "name": "［JP］UDON-SABER QUEST うどんせいばーQ",
-      "author": "ちしゃねこ",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_8bd2eae2-6205-4271-9c59-a4253c83715f/3/256",
-      "total": 83,
-      "public": 10,
-      "private": 73,
-      "deltaTotal": -4,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:12:21Z",
-      "history": [
-        [
-          1792909030,
-          79,
-          9,
-          70
         ],
         [
-          1792912621,
-          74,
-          7,
-          67
-        ],
-        [
-          1792916091,
-          87,
-          10,
-          77
-        ],
-        [
-          1792919541,
-          83,
-          10,
-          73
+          1792923180,
+          102,
+          13,
+          89
         ]
       ]
     },
@@ -1581,12 +1190,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_51a326d6-7e21-40df-bda0-13ab0b20f515/14/256",
-      "total": 82,
-      "public": 79,
-      "private": 3,
-      "deltaTotal": 5,
-      "deltaPublic": 3,
-      "observedAt": "2026-10-25T09:08:15Z",
+      "total": 95,
+      "public": 95,
+      "private": 0,
+      "deltaTotal": 13,
+      "deltaPublic": 16,
+      "observedAt": "2026-10-25T10:09:59Z",
       "history": [
         [
           1792898167,
@@ -1629,6 +1238,126 @@
           82,
           79,
           3
+        ],
+        [
+          1792922999,
+          95,
+          95,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_1b94e327-036b-4d09-81be-e898d71f02cb",
+      "name": "日本人向け 1対1お話しワールド NAGiSA ［JP］",
+      "author": "エンジンかずみ",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a4538476-7cd0-448c-8587-8d49d9d7337b/15/256",
+      "total": 93,
+      "public": 91,
+      "private": 2,
+      "deltaTotal": -15,
+      "deltaPublic": -16,
+      "observedAt": "2026-10-25T10:10:04Z",
+      "history": [
+        [
+          1792898203,
+          63,
+          63,
+          0
+        ],
+        [
+          1792901530,
+          57,
+          56,
+          1
+        ],
+        [
+          1792905045,
+          73,
+          72,
+          1
+        ],
+        [
+          1792908620,
+          89,
+          88,
+          1
+        ],
+        [
+          1792912230,
+          96,
+          93,
+          3
+        ],
+        [
+          1792915840,
+          96,
+          94,
+          2
+        ],
+        [
+          1792919277,
+          108,
+          107,
+          1
+        ],
+        [
+          1792923004,
+          93,
+          91,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "wrld_831d5ce9-c27c-434a-abcc-c7ca819dce3e",
+      "name": "夜のカクテルラウンジ 『Serif Mixology』",
+      "author": "やけい - Yakei",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d5ad6663-7103-4e3b-b6f3-084bf3a41aef/3/256",
+      "total": 92,
+      "public": 5,
+      "private": 87,
+      "deltaTotal": 0,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:16:10Z",
+      "history": [
+        [
+          1792908770,
+          107,
+          15,
+          92
+        ],
+        [
+          1792912462,
+          90,
+          9,
+          81
+        ],
+        [
+          1792916212,
+          122,
+          5,
+          117
+        ],
+        [
+          1792919615,
+          92,
+          6,
+          86
+        ],
+        [
+          1792923370,
+          92,
+          5,
+          87
         ]
       ]
     },
@@ -1642,12 +1371,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_5a10529c-34ec-4e80-8b76-dd92e6630799/8/256",
-      "total": 81,
-      "public": 26,
-      "private": 55,
-      "deltaTotal": -7,
-      "deltaPublic": 11,
-      "observedAt": "2026-10-25T09:10:10Z",
+      "total": 89,
+      "public": 30,
+      "private": 59,
+      "deltaTotal": 8,
+      "deltaPublic": 4,
+      "observedAt": "2026-10-25T10:11:25Z",
       "history": [
         [
           1792899218,
@@ -1690,120 +1419,180 @@
           81,
           26,
           55
+        ],
+        [
+          1792923085,
+          89,
+          30,
+          59
         ]
       ]
     },
     {
-      "id": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
-      "name": "なでなでマッチング【PC Desktop＆VR両対応】",
-      "author": "CHIHAYA ちはや",
+      "id": "wrld_be8df8df-fdb1-42dd-812b-261ee8fdf34a",
+      "name": "MoonLight",
+      "author": "-コウ-",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f2659cb7-dde4-4051-b9af-b7cddafe54ae/1/256",
-      "total": 78,
-      "public": 74,
-      "private": 4,
-      "deltaTotal": -7,
-      "deltaPublic": -7,
-      "observedAt": "2026-10-25T09:08:27Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_977aaff5-a208-48c4-a00d-282606944b3f/9/256",
+      "total": 86,
+      "public": 4,
+      "private": 82,
+      "deltaTotal": -26,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:18:09Z",
       "history": [
         [
-          1792898100,
-          74,
-          72,
-          2
+          1792916069,
+          97,
+          6,
+          91
         ],
         [
-          1792901521,
-          68,
-          68,
-          0
+          1792919648,
+          112,
+          5,
+          107
         ],
         [
-          1792905014,
-          94,
-          94,
-          0
-        ],
-        [
-          1792908594,
+          1792923489,
           86,
-          85,
-          1
-        ],
-        [
-          1792912239,
-          92,
-          89,
-          3
-        ],
-        [
-          1792915836,
-          85,
-          81,
-          4
-        ],
-        [
-          1792919307,
-          78,
-          74,
-          4
+          4,
+          82
         ]
       ]
     },
     {
-      "id": "wrld_6475f4ee-380e-4ad3-a85a-c459986548e3",
-      "name": "CRUSH FACTORY IDLE",
-      "author": "torikyatt",
+      "id": "wrld_f1d95348-8cfa-45c2-b96b-585bda930d2b",
+      "name": "NIGHTIDEv2․1․0_放置育成RPG",
+      "author": "もこみる",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_aac0e7f9-972e-42ae-a908-3bd85e4cb89b/1/256",
-      "total": 75,
-      "public": 4,
-      "private": 71,
-      "deltaTotal": 5,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:16:01Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_84f0bab4-cb28-456a-92d0-53cc406725f9/10/256",
+      "total": 86,
+      "public": 45,
+      "private": 41,
+      "deltaTotal": -5,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:11:07Z",
       "history": [
         [
-          1792916328,
-          70,
-          4,
-          66
+          1792898402,
+          86,
+          43,
+          43
         ],
         [
-          1792919761,
-          75,
-          4,
-          71
+          1792901569,
+          88,
+          40,
+          48
+        ],
+        [
+          1792905126,
+          90,
+          37,
+          53
+        ],
+        [
+          1792908696,
+          92,
+          40,
+          52
+        ],
+        [
+          1792912317,
+          86,
+          40,
+          46
+        ],
+        [
+          1792915905,
+          89,
+          41,
+          48
+        ],
+        [
+          1792919334,
+          91,
+          49,
+          42
+        ],
+        [
+          1792923067,
+          86,
+          45,
+          41
         ]
       ]
     },
     {
-      "id": "wrld_14e03d54-5c98-43e5-bf5b-e948e3b36385",
-      "name": "星夜のとばり -Stellar Attic-",
-      "author": "RaFimyu",
+      "id": "wrld_bf51e60f-f372-48b1-a757-88ba8331d926",
+      "name": "［JP］Tutorial world",
+      "author": "tamsco274",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_83b7fbdf-d542-4c59-aad0-cd003aa37751/8/256",
-      "total": 74,
-      "public": 1,
-      "private": 73,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:39Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c21e1df5-c53b-4878-b462-608ae900d80b/8/256",
+      "total": 81,
+      "public": 76,
+      "private": 5,
+      "deltaTotal": -13,
+      "deltaPublic": -11,
+      "observedAt": "2026-10-25T10:10:22Z",
       "history": [
         [
-          1792919739,
-          74,
-          1,
-          73
+          1792898032,
+          93,
+          86,
+          7
+        ],
+        [
+          1792901484,
+          85,
+          83,
+          2
+        ],
+        [
+          1792905024,
+          98,
+          89,
+          9
+        ],
+        [
+          1792908624,
+          77,
+          72,
+          5
+        ],
+        [
+          1792912234,
+          93,
+          83,
+          10
+        ],
+        [
+          1792915823,
+          115,
+          102,
+          13
+        ],
+        [
+          1792919286,
+          94,
+          87,
+          7
+        ],
+        [
+          1792923022,
+          81,
+          76,
+          5
         ]
       ]
     },
@@ -1817,12 +1606,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_69f1548d-1f7f-45f7-91a8-0bb941257311/10/256",
-      "total": 73,
-      "public": 18,
-      "private": 55,
-      "deltaTotal": 1,
-      "deltaPublic": 1,
-      "observedAt": "2026-10-25T09:10:46Z",
+      "total": 80,
+      "public": 16,
+      "private": 64,
+      "deltaTotal": 7,
+      "deltaPublic": -2,
+      "observedAt": "2026-10-25T10:13:05Z",
       "history": [
         [
           1792898934,
@@ -1865,368 +1654,157 @@
           73,
           18,
           55
+        ],
+        [
+          1792923185,
+          80,
+          16,
+          64
         ]
       ]
     },
     {
-      "id": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
-      "name": "EN-JP Language Exchange",
-      "author": "BocuD",
+      "id": "wrld_d2ed93a6-ad2f-49fd-af9e-0a39970f778c",
+      "name": "Mango Flange Karaoke",
+      "author": "Enverex",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ebed497d-45e8-4ea8-a89e-e15ea5a5ce31/8/256",
-      "total": 71,
-      "public": 70,
-      "private": 1,
-      "deltaTotal": -1,
-      "deltaPublic": -2,
-      "observedAt": "2026-10-25T09:08:23Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_991b79ab-290c-4c94-b64e-ade22973e8d8/2/256",
+      "total": 80,
+      "public": 20,
+      "private": 60,
+      "deltaTotal": -50,
+      "deltaPublic": 3,
+      "observedAt": "2026-10-25T10:12:06Z",
       "history": [
         [
-          1792898244,
-          58,
-          54,
-          4
-        ],
-        [
-          1792901498,
-          80,
-          80,
-          0
-        ],
-        [
-          1792905028,
-          75,
-          75,
-          0
-        ],
-        [
-          1792908607,
-          113,
-          113,
-          0
-        ],
-        [
-          1792912243,
-          90,
-          90,
-          0
-        ],
-        [
-          1792915859,
-          72,
-          72,
-          0
-        ],
-        [
-          1792919303,
-          71,
+          1792898159,
+          313,
           70,
-          1
+          243
+        ],
+        [
+          1792901534,
+          296,
+          53,
+          243
+        ],
+        [
+          1792905148,
+          238,
+          27,
+          211
+        ],
+        [
+          1792912298,
+          236,
+          44,
+          192
+        ],
+        [
+          1792915896,
+          208,
+          42,
+          166
+        ],
+        [
+          1792919415,
+          130,
+          17,
+          113
+        ],
+        [
+          1792923126,
+          80,
+          20,
+          60
         ]
       ]
     },
     {
-      "id": "wrld_917970a0-af27-4438-abad-01ac824ff8f3",
-      "name": "OneRoom -I-",
-      "author": "Taechan",
+      "id": "wrld_c2ea1a27-f3c4-4892-b919-4f3d95b055e3",
+      "name": "［JP］UDON-SABER QUEST うどんせいばーQ",
+      "author": "ちしゃねこ",
       "platforms": [
+        "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_11a7e7cb-d1eb-438f-abf6-09bdcb3ea6bc/5/256",
-      "total": 71,
-      "public": 2,
-      "private": 69,
-      "deltaTotal": -8,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:19:37Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_8bd2eae2-6205-4271-9c59-a4253c83715f/3/256",
+      "total": 76,
+      "public": 6,
+      "private": 70,
+      "deltaTotal": -7,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:17:01Z",
       "history": [
         [
-          1792912839,
-          96,
-          3,
-          93
+          1792909030,
+          79,
+          9,
+          70
         ],
         [
-          1792916549,
-          79,
-          2,
+          1792912621,
+          74,
+          7,
+          67
+        ],
+        [
+          1792916091,
+          87,
+          10,
           77
         ],
         [
-          1792919977,
-          71,
-          2,
-          69
-        ]
-      ]
-    },
-    {
-      "id": "wrld_fac11e5f-1c73-4436-8936-a70b80961c5a",
-      "name": "Rest and Sleep 寝る",
-      "author": "ʟᴏʟɪ",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_8785fceb-e2f2-4f3d-ae9c-307fedccc359/26/256",
-      "total": 69,
-      "public": 21,
-      "private": 48,
-      "deltaTotal": 6,
-      "deltaPublic": 1,
-      "observedAt": "2026-10-25T09:10:20Z",
-      "history": [
-        [
-          1792898961,
-          42,
-          16,
-          26
-        ],
-        [
-          1792901664,
-          51,
-          21,
-          30
-        ],
-        [
-          1792905144,
-          54,
-          22,
-          32
-        ],
-        [
-          1792908739,
-          66,
-          25,
-          41
-        ],
-        [
-          1792912354,
-          60,
-          24,
-          36
-        ],
-        [
-          1792915976,
-          63,
-          20,
-          43
-        ],
-        [
-          1792919420,
-          69,
-          21,
-          48
-        ]
-      ]
-    },
-    {
-      "id": "wrld_e7be3d4d-4c39-4219-9b17-5094c3193050",
-      "name": "VRC HandBall",
-      "author": "Parottey",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ab94048e-f5cd-4aa7-8d8d-47e3a70677c8/3/256",
-      "total": 67,
-      "public": 17,
-      "private": 50,
-      "deltaTotal": 38,
-      "deltaPublic": 5,
-      "observedAt": "2026-10-25T09:10:24Z",
-      "history": [
-        [
-          1792916034,
-          29,
-          12,
-          17
-        ],
-        [
-          1792919424,
-          67,
-          17,
-          50
-        ]
-      ]
-    },
-    {
-      "id": "wrld_ad903340-41c5-44a1-bf37-9bfad5c91a76",
-      "name": "The Midnight Bar",
-      "author": "[Jmelt] Kurisu",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_399130ee-6b3e-4ed1-b2f0-2655d541d06f/15/256",
-      "total": 64,
-      "public": 43,
-      "private": 21,
-      "deltaTotal": -27,
-      "deltaPublic": -30,
-      "observedAt": "2026-10-25T09:09:04Z",
-      "history": [
-        [
-          1792897921,
-          240,
-          143,
-          97
-        ],
-        [
-          1792901462,
-          217,
-          117,
-          100
-        ],
-        [
-          1792905005,
-          209,
-          133,
-          76
-        ],
-        [
-          1792908590,
-          205,
-          159,
-          46
-        ],
-        [
-          1792912216,
-          192,
-          128,
-          64
-        ],
-        [
-          1792915850,
-          91,
-          73,
-          18
-        ],
-        [
-          1792919344,
-          64,
-          43,
-          21
-        ]
-      ]
-    },
-    {
-      "id": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
-      "name": "Idle Home",
-      "author": "Maki Maki",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_5c39de9f-10ae-4e03-8619-0abc89ee6d6a/2/256",
-      "total": 63,
-      "public": 12,
-      "private": 51,
-      "deltaTotal": -16,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:11:26Z",
-      "history": [
-        [
-          1792899293,
-          90,
+          1792919541,
+          83,
           10,
-          80
-        ],
-        [
-          1792901842,
-          81,
-          8,
           73
         ],
         [
-          1792905376,
-          70,
-          9,
-          61
-        ],
-        [
-          1792908828,
-          87,
-          11,
-          76
-        ],
-        [
-          1792912427,
-          75,
-          11,
-          64
-        ],
-        [
-          1792916043,
-          79,
-          13,
-          66
-        ],
-        [
-          1792919486,
-          63,
-          12,
-          51
+          1792923421,
+          76,
+          6,
+          70
         ]
       ]
     },
     {
-      "id": "wrld_e873895f-ed00-45db-b576-7e9e94686b27",
-      "name": "TOUHOU ULTRA˸ Scarlet Devil",
-      "author": "파 이",
+      "id": "wrld_6475f4ee-380e-4ad3-a85a-c459986548e3",
+      "name": "CRUSH FACTORY IDLE",
+      "author": "torikyatt",
       "platforms": [
-        "ios",
-        "pc",
-        "quest"
+        "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_89c4c13b-b172-482b-a9d0-b4afd1c7ffea/4/256",
-      "total": 63,
-      "public": 7,
-      "private": 56,
-      "deltaTotal": -6,
-      "deltaPublic": 2,
-      "observedAt": "2026-10-25T09:12:48Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_aac0e7f9-972e-42ae-a908-3bd85e4cb89b/1/256",
+      "total": 75,
+      "public": 4,
+      "private": 71,
+      "deltaTotal": 0,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:17:31Z",
       "history": [
         [
-          1792902060,
-          47,
-          6,
-          41
+          1792916328,
+          70,
+          4,
+          66
         ],
         [
-          1792905268,
-          66,
-          12,
-          54
+          1792919761,
+          75,
+          4,
+          71
         ],
         [
-          1792908906,
-          69,
-          9,
-          60
-        ],
-        [
-          1792912454,
-          64,
-          6,
-          58
-        ],
-        [
-          1792916249,
-          69,
-          5,
-          64
-        ],
-        [
-          1792919568,
-          63,
-          7,
-          56
+          1792923451,
+          75,
+          4,
+          71
         ]
       ]
     },
@@ -2240,12 +1818,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2af90b17-ce9b-4b6f-8295-1a7398b69a9a/2/256",
-      "total": 62,
-      "public": 25,
+      "total": 74,
+      "public": 37,
       "private": 37,
-      "deltaTotal": -22,
-      "deltaPublic": -9,
-      "observedAt": "2026-10-25T09:09:35Z",
+      "deltaTotal": 12,
+      "deltaPublic": 12,
+      "observedAt": "2026-10-25T10:11:11Z",
       "history": [
         [
           1792899253,
@@ -2288,67 +1866,398 @@
           62,
           25,
           37
+        ],
+        [
+          1792923071,
+          74,
+          37,
+          37
         ]
       ]
     },
     {
-      "id": "wrld_4b12668f-17d8-49d7-9182-d5fa859076dc",
-      "name": "幸運貯蔵庫 - FortuneDepot",
-      "author": "RARA（ﾗﾗ）",
+      "id": "wrld_05da9a75-947a-4e7c-bccd-8f822969abc1",
+      "name": "DEADLIGHT",
+      "author": "Bombae",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_b69d0621-32dd-409f-8c54-24403c95d90b/3/256",
-      "total": 57,
-      "public": 23,
-      "private": 34,
-      "deltaTotal": -8,
-      "deltaPublic": -3,
-      "observedAt": "2026-10-25T09:10:02Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_77c39306-dcf6-4ca8-94d7-18b1217c77ab/4/256",
+      "total": 73,
+      "public": 37,
+      "private": 36,
+      "deltaTotal": -45,
+      "deltaPublic": -10,
+      "observedAt": "2026-10-25T10:10:58Z",
       "history": [
         [
-          1792898677,
+          1792898078,
+          438,
+          73,
+          365
+        ],
+        [
+          1792901493,
+          346,
+          76,
+          270
+        ],
+        [
+          1792905032,
+          329,
+          70,
+          259
+        ],
+        [
+          1792908682,
+          267,
+          41,
+          226
+        ],
+        [
+          1792912285,
+          222,
+          42,
+          180
+        ],
+        [
+          1792915931,
+          155,
+          34,
+          121
+        ],
+        [
+          1792919316,
+          118,
+          47,
+          71
+        ],
+        [
+          1792923058,
+          73,
+          37,
+          36
+        ]
+      ]
+    },
+    {
+      "id": "wrld_e873895f-ed00-45db-b576-7e9e94686b27",
+      "name": "TOUHOU ULTRA˸ Scarlet Devil",
+      "author": "파 이",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_89c4c13b-b172-482b-a9d0-b4afd1c7ffea/4/256",
+      "total": 73,
+      "public": 3,
+      "private": 70,
+      "deltaTotal": 10,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:16:28Z",
+      "history": [
+        [
+          1792902060,
+          47,
+          6,
+          41
+        ],
+        [
+          1792905268,
           66,
-          27,
-          39
+          12,
+          54
         ],
         [
-          1792901608,
-          56,
-          25,
-          31
+          1792908906,
+          69,
+          9,
+          60
         ],
         [
-          1792905135,
-          61,
+          1792912454,
+          64,
+          6,
+          58
+        ],
+        [
+          1792916249,
+          69,
+          5,
+          64
+        ],
+        [
+          1792919568,
+          63,
+          7,
+          56
+        ],
+        [
+          1792923388,
+          73,
+          3,
+          70
+        ]
+      ]
+    },
+    {
+      "id": "wrld_056ab5d5-e054-4ea7-ad85-dedc734ed7b5",
+      "name": "VRC BOXING ［JP ⁄ EN ⁄ KR］",
+      "author": "ムシコロリ",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_839a33af-94b1-4924-bab5-d6f4de81cf5c/22/256",
+      "total": 70,
+      "public": 26,
+      "private": 44,
+      "deltaTotal": -24,
+      "deltaPublic": 1,
+      "observedAt": "2026-10-25T10:11:16Z",
+      "history": [
+        [
+          1792897983,
+          249,
+          117,
+          132
+        ],
+        [
+          1792901466,
+          183,
+          70,
+          113
+        ],
+        [
+          1792905019,
+          216,
+          81,
+          135
+        ],
+        [
+          1792908598,
+          151,
+          62,
+          89
+        ],
+        [
+          1792912280,
+          136,
+          28,
+          108
+        ],
+        [
+          1792915900,
+          112,
           30,
-          31
+          82
         ],
         [
-          1792908715,
-          54,
-          32,
-          22
+          1792919392,
+          94,
+          25,
+          69
         ],
         [
-          1792912340,
-          53,
-          27,
+          1792923076,
+          70,
+          26,
+          44
+        ]
+      ]
+    },
+    {
+      "id": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
+      "name": "新宿ライブストリート ⁄ Shinjuku Live Street",
+      "author": "Artistoid",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c6b519ec-141a-4edb-83f3-2fc3dc39c2e1/5/256",
+      "total": 69,
+      "public": 69,
+      "private": 0,
+      "deltaTotal": 32,
+      "deltaPublic": 32,
+      "observedAt": "2026-10-25T10:10:35Z",
+      "history": [
+        [
+          1792899493,
+          6,
+          5,
+          1
+        ],
+        [
+          1792905286,
+          19,
+          17,
+          2
+        ],
+        [
+          1792908815,
+          16,
+          16,
+          0
+        ],
+        [
+          1792912367,
+          15,
+          15,
+          0
+        ],
+        [
+          1792915949,
+          26,
+          26,
+          0
+        ],
+        [
+          1792919348,
+          37,
+          37,
+          0
+        ],
+        [
+          1792923035,
+          69,
+          69,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_fac11e5f-1c73-4436-8936-a70b80961c5a",
+      "name": "Rest and Sleep 寝る",
+      "author": "ʟᴏʟɪ",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_8785fceb-e2f2-4f3d-ae9c-307fedccc359/26/256",
+      "total": 68,
+      "public": 20,
+      "private": 48,
+      "deltaTotal": -1,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:12:55Z",
+      "history": [
+        [
+          1792898961,
+          42,
+          16,
           26
         ],
         [
-          1792915927,
-          65,
-          26,
-          39
+          1792901664,
+          51,
+          21,
+          30
         ],
         [
-          1792919402,
-          57,
-          23,
-          34
+          1792905144,
+          54,
+          22,
+          32
+        ],
+        [
+          1792908739,
+          66,
+          25,
+          41
+        ],
+        [
+          1792912354,
+          60,
+          24,
+          36
+        ],
+        [
+          1792915976,
+          63,
+          20,
+          43
+        ],
+        [
+          1792919420,
+          69,
+          21,
+          48
+        ],
+        [
+          1792923175,
+          68,
+          20,
+          48
+        ]
+      ]
+    },
+    {
+      "id": "wrld_bcf9cc6f-6e3c-4fa0-a0ff-c6a1c5645849",
+      "name": "なでなでマッチング【PC Desktop＆VR両対応】",
+      "author": "CHIHAYA ちはや",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f2659cb7-dde4-4051-b9af-b7cddafe54ae/1/256",
+      "total": 66,
+      "public": 60,
+      "private": 6,
+      "deltaTotal": -12,
+      "deltaPublic": -14,
+      "observedAt": "2026-10-25T10:10:09Z",
+      "history": [
+        [
+          1792898100,
+          74,
+          72,
+          2
+        ],
+        [
+          1792901521,
+          68,
+          68,
+          0
+        ],
+        [
+          1792905014,
+          94,
+          94,
+          0
+        ],
+        [
+          1792908594,
+          86,
+          85,
+          1
+        ],
+        [
+          1792912239,
+          92,
+          89,
+          3
+        ],
+        [
+          1792915836,
+          85,
+          81,
+          4
+        ],
+        [
+          1792919307,
+          78,
+          74,
+          4
+        ],
+        [
+          1792923009,
+          66,
+          60,
+          6
         ]
       ]
     },
@@ -2360,12 +2269,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_da7a7f2d-df4f-4864-9a1c-6be21e1dfab6/5/256",
-      "total": 52,
-      "public": 20,
-      "private": 32,
-      "deltaTotal": -35,
-      "deltaPublic": -4,
-      "observedAt": "2026-10-25T09:09:57Z",
+      "total": 65,
+      "public": 19,
+      "private": 46,
+      "deltaTotal": 13,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:11:47Z",
       "history": [
         [
           1792898525,
@@ -2408,678 +2317,12 @@
           52,
           20,
           32
-        ]
-      ]
-    },
-    {
-      "id": "wrld_471a8f7c-31e9-4162-bab9-915a69f87d1a",
-      "name": "Tokyo Jujutsu High - JJK˸ Cursed Clash",
-      "author": "Takato Matsuki",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2b410884-e81a-408b-b4e0-13388547e59a/8/256",
-      "total": 47,
-      "public": 37,
-      "private": 10,
-      "deltaTotal": -9,
-      "deltaPublic": -15,
-      "observedAt": "2026-10-25T09:08:59Z",
-      "history": [
-        [
-          1792897965,
-          135,
-          121,
-          14
         ],
         [
-          1792901471,
-          110,
-          92,
-          18
-        ],
-        [
-          1792905036,
-          76,
-          59,
-          17
-        ],
-        [
-          1792908655,
-          50,
-          44,
-          6
-        ],
-        [
-          1792912267,
-          45,
-          40,
-          5
-        ],
-        [
-          1792915873,
-          56,
-          52,
-          4
-        ],
-        [
-          1792919339,
-          47,
-          37,
-          10
-        ]
-      ]
-    },
-    {
-      "id": "wrld_7eb91216-9fac-4481-a3cd-5f9b9d7d3a2d",
-      "name": "【CBS対応】悠々の間",
-      "author": "Croys",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_b8eb4035-9592-47be-9af1-9cbedd25ca06/4/256",
-      "total": 46,
-      "public": 21,
-      "private": 25,
-      "deltaTotal": 1,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:10:33Z",
-      "history": [
-        [
-          1792898772,
-          50,
-          22,
-          28
-        ],
-        [
-          1792901660,
-          46,
-          23,
-          23
-        ],
-        [
-          1792905153,
-          45,
-          26,
-          19
-        ],
-        [
-          1792908743,
-          40,
-          21,
-          19
-        ],
-        [
-          1792912386,
-          40,
-          19,
-          21
-        ],
-        [
-          1792915967,
-          45,
-          22,
-          23
-        ],
-        [
-          1792919433,
-          46,
-          21,
-          25
-        ]
-      ]
-    },
-    {
-      "id": "wrld_21a81ef7-1883-4b83-b988-5973f2063267",
-      "name": "掃除して",
-      "author": "Kawase",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2765d2fa-4558-4128-a9e3-2b37a9b7c6ec/3/256",
-      "total": 45,
-      "public": 4,
-      "private": 41,
-      "deltaTotal": 7,
-      "deltaPublic": 2,
-      "observedAt": "2026-10-25T09:11:17Z",
-      "history": [
-        [
-          1792916414,
-          38,
-          2,
-          36
-        ],
-        [
-          1792919477,
-          45,
-          4,
-          41
-        ]
-      ]
-    },
-    {
-      "id": "wrld_9e621490-a8d7-4f65-a3ac-3bebd44e9a2e",
-      "name": "Pass The Sketchǃ",
-      "author": "マウンテンデュー",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_0f99cac3-98a5-4c33-af50-0be43b3d5402/12/256",
-      "total": 45,
-      "public": 6,
-      "private": 39,
-      "deltaTotal": 14,
-      "deltaPublic": -6,
-      "observedAt": "2026-10-25T09:14:12Z",
-      "history": [
-        [
-          1792905228,
-          175,
-          13,
-          162
-        ],
-        [
-          1792908892,
-          142,
-          5,
-          137
-        ],
-        [
-          1792916056,
-          31,
-          12,
-          19
-        ],
-        [
-          1792919652,
-          45,
-          6,
-          39
-        ]
-      ]
-    },
-    {
-      "id": "wrld_c497f0ab-70fe-474e-9f38-54348bdcdc24",
-      "name": "デュ部屋",
-      "author": "V4ULTN_ぼるとん",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ade33d74-3c28-4fce-a819-f9ad2aacf577/8/256",
-      "total": 43,
-      "public": 5,
-      "private": 38,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:25Z",
-      "history": [
-        [
-          1792899257,
-          15,
-          9,
-          6
-        ],
-        [
-          1792901869,
-          13,
-          7,
-          6
-        ],
-        [
-          1792905340,
-          21,
-          9,
-          12
-        ],
-        [
-          1792908911,
-          22,
-          7,
-          15
-        ],
-        [
-          1792912431,
-          25,
-          12,
-          13
-        ],
-        [
-          1792919725,
-          43,
-          5,
-          38
-        ]
-      ]
-    },
-    {
-      "id": "wrld_18e01005-beb8-4a28-bb74-f789de8494a7",
-      "name": "［JP‚EN‚CN‚KR］VRC卓球 VRC Table Tennis",
-      "author": "Gutty_007",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_9daa4171-102b-4325-a6cc-2a4244bb8849/7/256",
-      "total": 41,
-      "public": 16,
-      "private": 25,
-      "deltaTotal": 20,
-      "deltaPublic": 8,
-      "observedAt": "2026-10-25T09:11:04Z",
-      "history": [
-        [
-          1792899431,
-          27,
-          10,
-          17
-        ],
-        [
-          1792901888,
-          27,
-          11,
-          16
-        ],
-        [
-          1792905197,
-          31,
-          12,
-          19
-        ],
-        [
-          1792908819,
-          24,
-          9,
-          15
-        ],
-        [
-          1792912566,
-          20,
-          7,
-          13
-        ],
-        [
-          1792916086,
-          21,
-          8,
-          13
-        ],
-        [
-          1792919464,
-          41,
-          16,
-          25
-        ]
-      ]
-    },
-    {
-      "id": "wrld_36a4f752-6e45-4c37-9eed-279525f3e8c8",
-      "name": "taktie's Gun Dynamics【FULL RELEASE】",
-      "author": "たくてぃー",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6e761114-7e99-4855-b693-1d1f2f9e6742/8/256",
-      "total": 41,
-      "public": 17,
-      "private": 24,
-      "deltaTotal": 14,
-      "deltaPublic": 8,
-      "observedAt": "2026-10-25T09:10:42Z",
-      "history": [
-        [
-          1792902092,
-          34,
-          5,
-          29
-        ],
-        [
-          1792905471,
-          26,
-          5,
-          21
-        ],
-        [
-          1792908964,
-          30,
-          7,
-          23
-        ],
-        [
-          1792912491,
-          39,
-          11,
-          28
-        ],
-        [
-          1792916082,
-          27,
-          9,
-          18
-        ],
-        [
-          1792919442,
-          41,
-          17,
-          24
-        ]
-      ]
-    },
-    {
-      "id": "wrld_38adf2db-37c0-40a1-93ad-3c7e41006523",
-      "name": "Shirai",
-      "author": "TsunomakiJesus",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_bd236a2e-8a71-450e-9409-274439a4ccaa/2/256",
-      "total": 40,
-      "public": 8,
-      "private": 32,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:12:38Z",
-      "history": [
-        [
-          1792905461,
-          26,
-          4,
-          22
-        ],
-        [
-          1792909197,
-          33,
-          3,
-          30
-        ],
-        [
-          1792912852,
-          26,
-          4,
-          22
-        ],
-        [
-          1792919558,
-          40,
-          8,
-          32
-        ]
-      ]
-    },
-    {
-      "id": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
-      "name": "JP 初心者プラザ",
-      "author": "V WORLD",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f9916bf3-9e17-48f5-bd5d-d224f8e65c45/15/256",
-      "total": 40,
-      "public": 36,
-      "private": 4,
-      "deltaTotal": -31,
-      "deltaPublic": -27,
-      "observedAt": "2026-10-25T09:08:40Z",
-      "history": [
-        [
-          1792898352,
-          26,
-          26,
-          0
-        ],
-        [
-          1792901551,
-          47,
-          41,
-          6
-        ],
-        [
-          1792905059,
-          49,
-          48,
-          1
-        ],
-        [
-          1792908641,
+          1792923107,
           65,
-          61,
-          4
-        ],
-        [
-          1792912257,
-          55,
-          55,
-          0
-        ],
-        [
-          1792915864,
-          71,
-          63,
-          8
-        ],
-        [
-          1792919320,
-          40,
-          36,
-          4
-        ]
-      ]
-    },
-    {
-      "id": "wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521",
-      "name": "BOOTH Room",
-      "author": "pixiv Inc․",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f6302780-c020-4b97-ae9f-35cfb09f35c5/1/256",
-      "total": 38,
-      "public": 4,
-      "private": 34,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:18:20Z",
-      "history": [
-        [
-          1792919900,
-          38,
-          4,
-          34
-        ]
-      ]
-    },
-    {
-      "id": "wrld_db6b9fa4-6afb-41e3-8f06-f512fd2676ce",
-      "name": "Wistful",
-      "author": "Lilly the cat",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_bcfecc28-5d3e-462c-99fd-273c5e6c2a8f/1/256",
-      "total": 38,
-      "public": 4,
-      "private": 34,
-      "deltaTotal": -8,
-      "deltaPublic": -4,
-      "observedAt": "2026-10-25T09:15:21Z",
-      "history": [
-        [
-          1792899348,
-          76,
-          6,
-          70
-        ],
-        [
-          1792901726,
-          78,
-          8,
-          70
-        ],
-        [
-          1792912458,
-          72,
-          1,
-          71
-        ],
-        [
-          1792916395,
-          46,
-          8,
-          38
-        ],
-        [
-          1792919721,
-          38,
-          4,
-          34
-        ]
-      ]
-    },
-    {
-      "id": "wrld_c82a5c14-97a5-4782-a034-d897d2d943a2",
-      "name": "新宿ライブストリート ⁄ Shinjuku Live Street",
-      "author": "Artistoid",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c6b519ec-141a-4edb-83f3-2fc3dc39c2e1/5/256",
-      "total": 37,
-      "public": 37,
-      "private": 0,
-      "deltaTotal": 11,
-      "deltaPublic": 11,
-      "observedAt": "2026-10-25T09:09:08Z",
-      "history": [
-        [
-          1792899493,
-          6,
-          5,
-          1
-        ],
-        [
-          1792905286,
           19,
-          17,
-          2
-        ],
-        [
-          1792908815,
-          16,
-          16,
-          0
-        ],
-        [
-          1792912367,
-          15,
-          15,
-          0
-        ],
-        [
-          1792915949,
-          26,
-          26,
-          0
-        ],
-        [
-          1792919348,
-          37,
-          37,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_f97ad04b-958d-4f8e-8df1-06eacdf84417",
-      "name": "SoulLink -ソウルリンク- VR Card Duel",
-      "author": "voぞぬov",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_64f9513b-91df-4d47-8684-6a662e704d6d/3/256",
-      "total": 37,
-      "public": 19,
-      "private": 18,
-      "deltaTotal": 5,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:10:06Z",
-      "history": [
-        [
-          1792898925,
-          26,
-          15,
-          11
-        ],
-        [
-          1792901761,
-          25,
-          13,
-          12
-        ],
-        [
-          1792905179,
-          41,
-          20,
-          21
-        ],
-        [
-          1792908780,
-          35,
-          16,
-          19
-        ],
-        [
-          1792912409,
-          32,
-          16,
-          16
-        ],
-        [
-          1792915989,
-          32,
-          19,
-          13
-        ],
-        [
-          1792919406,
-          37,
-          19,
-          18
-        ]
-      ]
-    },
-    {
-      "id": "wrld_6b5d5bc6-765b-486c-a3c7-03836ef2a373",
-      "name": "WBD VRC Baseball （野球）",
-      "author": "썬써니_",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c7ac8963-e33c-47fe-8ed8-c5bca7e2a18c/8/256",
-      "total": 36,
-      "public": 5,
-      "private": 31,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:20:26Z",
-      "history": [
-        [
-          1792920026,
-          36,
-          5,
-          31
+          46
         ]
       ]
     },
@@ -3093,12 +2336,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_df9776f3-2f5a-467a-9a50-35ed8f1112e6/15/256",
-      "total": 35,
-      "public": 6,
-      "private": 29,
-      "deltaTotal": -15,
-      "deltaPublic": -5,
-      "observedAt": "2026-10-25T09:13:27Z",
+      "total": 62,
+      "public": 16,
+      "private": 46,
+      "deltaTotal": 27,
+      "deltaPublic": 10,
+      "observedAt": "2026-10-25T10:13:09Z",
       "history": [
         [
           1792898531,
@@ -3141,563 +2384,607 @@
           35,
           6,
           29
+        ],
+        [
+          1792923189,
+          62,
+          16,
+          46
         ]
       ]
     },
     {
-      "id": "wrld_00000000-0000-0000-0000-000001234567",
-      "name": "Apt․ 404［CN⁄模型房⁄电影院⁄挂机⁄聊天⁄Avatar World⁄Cinema］",
-      "author": "Xiao Nan",
+      "id": "wrld_153be667-a86e-4aaf-9eed-921bd568ee9b",
+      "name": "EN-JP Language Exchange",
+      "author": "BocuD",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1d462fba-f553-42d6-998b-e23c92651c0e/2/256",
-      "total": 34,
-      "public": 8,
-      "private": 26,
-      "deltaTotal": -6,
-      "deltaPublic": -5,
-      "observedAt": "2026-10-25T09:11:22Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ebed497d-45e8-4ea8-a89e-e15ea5a5ce31/8/256",
+      "total": 60,
+      "public": 60,
+      "private": 0,
+      "deltaTotal": -11,
+      "deltaPublic": -10,
+      "observedAt": "2026-10-25T10:10:17Z",
       "history": [
         [
-          1792898907,
-          23,
-          4,
-          19
+          1792898244,
+          58,
+          54,
+          4
         ],
         [
-          1792905251,
-          26,
-          14,
-          12
+          1792901498,
+          80,
+          80,
+          0
         ],
         [
-          1792909039,
-          20,
-          4,
-          16
+          1792905028,
+          75,
+          75,
+          0
         ],
         [
-          1792912505,
-          25,
-          7,
-          18
+          1792908607,
+          113,
+          113,
+          0
         ],
         [
-          1792916020,
-          40,
-          13,
-          27
+          1792912243,
+          90,
+          90,
+          0
         ],
         [
-          1792919482,
-          34,
-          8,
-          26
+          1792915859,
+          72,
+          72,
+          0
+        ],
+        [
+          1792919303,
+          71,
+          70,
+          1
+        ],
+        [
+          1792923017,
+          60,
+          60,
+          0
         ]
       ]
     },
     {
-      "id": "wrld_e62db0b4-6cc5-48af-8192-9d68c9185c4f",
-      "name": "秋の上",
-      "author": "りょち_ryochi",
+      "id": "wrld_1da450bf-1f2c-4438-9b59-c9d275bedbea",
+      "name": "Salty Latte",
+      "author": "_shio_",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_7b982b16-fbd7-48b2-8e51-e18dfb2b5a9b/1/256",
+      "total": 60,
+      "public": 5,
+      "private": 55,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:15:15Z",
+      "history": [
+        [
+          1792923315,
+          60,
+          5,
+          55
+        ]
+      ]
+    },
+    {
+      "id": "wrld_9e621490-a8d7-4f65-a3ac-3bebd44e9a2e",
+      "name": "Pass The Sketchǃ",
+      "author": "マウンテンデュー",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_0f99cac3-98a5-4c33-af50-0be43b3d5402/12/256",
+      "total": 55,
+      "public": 13,
+      "private": 42,
+      "deltaTotal": 10,
+      "deltaPublic": 7,
+      "observedAt": "2026-10-25T10:13:13Z",
+      "history": [
+        [
+          1792905228,
+          175,
+          13,
+          162
+        ],
+        [
+          1792908892,
+          142,
+          5,
+          137
+        ],
+        [
+          1792916056,
+          31,
+          12,
+          19
+        ],
+        [
+          1792919652,
+          45,
+          6,
+          39
+        ],
+        [
+          1792923193,
+          55,
+          13,
+          42
+        ]
+      ]
+    },
+    {
+      "id": "wrld_ad903340-41c5-44a1-bf37-9bfad5c91a76",
+      "name": "The Midnight Bar",
+      "author": "[Jmelt] Kurisu",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_399130ee-6b3e-4ed1-b2f0-2655d541d06f/15/256",
+      "total": 55,
+      "public": 46,
+      "private": 9,
+      "deltaTotal": -9,
+      "deltaPublic": 3,
+      "observedAt": "2026-10-25T10:11:03Z",
+      "history": [
+        [
+          1792897921,
+          240,
+          143,
+          97
+        ],
+        [
+          1792901462,
+          217,
+          117,
+          100
+        ],
+        [
+          1792905005,
+          209,
+          133,
+          76
+        ],
+        [
+          1792908590,
+          205,
+          159,
+          46
+        ],
+        [
+          1792912216,
+          192,
+          128,
+          64
+        ],
+        [
+          1792915850,
+          91,
+          73,
+          18
+        ],
+        [
+          1792919344,
+          64,
+          43,
+          21
+        ],
+        [
+          1792923063,
+          55,
+          46,
+          9
+        ]
+      ]
+    },
+    {
+      "id": "wrld_c16e4dee-d149-4116-adbc-16bc30b664b0",
+      "name": "Idle Home",
+      "author": "Maki Maki",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_5973277c-1e49-4068-b102-838c5f1de753/3/256",
-      "total": 34,
-      "public": 1,
-      "private": 33,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:44Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_5c39de9f-10ae-4e03-8619-0abc89ee6d6a/2/256",
+      "total": 55,
+      "public": 10,
+      "private": 45,
+      "deltaTotal": -8,
+      "deltaPublic": -2,
+      "observedAt": "2026-10-25T10:13:32Z",
       "history": [
         [
-          1792919744,
-          34,
-          1,
-          33
+          1792899293,
+          90,
+          10,
+          80
+        ],
+        [
+          1792901842,
+          81,
+          8,
+          73
+        ],
+        [
+          1792905376,
+          70,
+          9,
+          61
+        ],
+        [
+          1792908828,
+          87,
+          11,
+          76
+        ],
+        [
+          1792912427,
+          75,
+          11,
+          64
+        ],
+        [
+          1792916043,
+          79,
+          13,
+          66
+        ],
+        [
+          1792919486,
+          63,
+          12,
+          51
+        ],
+        [
+          1792923212,
+          55,
+          10,
+          45
         ]
       ]
     },
     {
-      "id": "wrld_65da52d3-2a81-40fd-a388-8c3e3fabb033",
-      "name": "夜見駅",
-      "author": "PanpacaTiltott",
+      "id": "wrld_16809a6b-c03b-4fcb-8628-c888c3bcd933",
+      "name": "水中箱庭",
+      "author": "はなはな25",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f889b929-aadc-4c05-872c-912da9731f2a/2/256",
-      "total": 33,
-      "public": 9,
-      "private": 24,
-      "deltaTotal": 2,
-      "deltaPublic": 1,
-      "observedAt": "2026-10-25T09:13:40Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_05a2cee0-b132-4881-a899-2d73e0700c3e/4/256",
+      "total": 53,
+      "public": 1,
+      "private": 52,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:16:51Z",
       "history": [
         [
-          1792899489,
-          14,
+          1792901883,
+          44,
+          3,
+          41
+        ],
+        [
+          1792923411,
+          53,
+          1,
+          52
+        ]
+      ]
+    },
+    {
+      "id": "wrld_4b12668f-17d8-49d7-9182-d5fa859076dc",
+      "name": "幸運貯蔵庫 - FortuneDepot",
+      "author": "RARA（ﾗﾗ）",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_b69d0621-32dd-409f-8c54-24403c95d90b/3/256",
+      "total": 53,
+      "public": 22,
+      "private": 31,
+      "deltaTotal": -4,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:11:34Z",
+      "history": [
+        [
+          1792898677,
+          66,
+          27,
+          39
+        ],
+        [
+          1792901608,
+          56,
+          25,
+          31
+        ],
+        [
+          1792905135,
+          61,
+          30,
+          31
+        ],
+        [
+          1792908715,
+          54,
+          32,
+          22
+        ],
+        [
+          1792912340,
+          53,
+          27,
+          26
+        ],
+        [
+          1792915927,
+          65,
+          26,
+          39
+        ],
+        [
+          1792919402,
+          57,
+          23,
+          34
+        ],
+        [
+          1792923094,
+          53,
+          22,
+          31
+        ]
+      ]
+    },
+    {
+      "id": "wrld_21a81ef7-1883-4b83-b988-5973f2063267",
+      "name": "掃除して",
+      "author": "Kawase",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2765d2fa-4558-4128-a9e3-2b37a9b7c6ec/3/256",
+      "total": 51,
+      "public": 6,
+      "private": 45,
+      "deltaTotal": 6,
+      "deltaPublic": 2,
+      "observedAt": "2026-10-25T10:15:02Z",
+      "history": [
+        [
+          1792916414,
+          38,
           2,
-          12
+          36
         ],
         [
-          1792905398,
-          21,
+          1792919477,
+          45,
           4,
-          17
+          41
         ],
         [
-          1792909016,
-          50,
+          1792923302,
+          51,
           6,
-          44
+          45
+        ]
+      ]
+    },
+    {
+      "id": "wrld_7345f139-e021-45cb-986e-b8b0f43994fa",
+      "name": "JP 初心者プラザ",
+      "author": "V WORLD",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f9916bf3-9e17-48f5-bd5d-d224f8e65c45/15/256",
+      "total": 48,
+      "public": 45,
+      "private": 3,
+      "deltaTotal": 8,
+      "deltaPublic": 9,
+      "observedAt": "2026-10-25T10:10:49Z",
+      "history": [
+        [
+          1792898352,
+          26,
+          26,
+          0
         ],
         [
-          1792912607,
-          24,
-          4,
-          20
+          1792901551,
+          47,
+          41,
+          6
         ],
         [
-          1792916176,
-          31,
-          8,
+          1792905059,
+          49,
+          48,
+          1
+        ],
+        [
+          1792908641,
+          65,
+          61,
+          4
+        ],
+        [
+          1792912257,
+          55,
+          55,
+          0
+        ],
+        [
+          1792915864,
+          71,
+          63,
+          8
+        ],
+        [
+          1792919320,
+          40,
+          36,
+          4
+        ],
+        [
+          1792923049,
+          48,
+          45,
+          3
+        ]
+      ]
+    },
+    {
+      "id": "wrld_7eb91216-9fac-4481-a3cd-5f9b9d7d3a2d",
+      "name": "【CBS対応】悠々の間",
+      "author": "Croys",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_b8eb4035-9592-47be-9af1-9cbedd25ca06/4/256",
+      "total": 45,
+      "public": 20,
+      "private": 25,
+      "deltaTotal": -1,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:12:33Z",
+      "history": [
+        [
+          1792898772,
+          50,
+          22,
+          28
+        ],
+        [
+          1792901660,
+          46,
+          23,
           23
         ],
         [
-          1792919620,
-          33,
-          9,
-          24
-        ]
-      ]
-    },
-    {
-      "id": "wrld_0ed69379-d849-4d58-a0c3-d6bcbcadbe48",
-      "name": "MedalGameWorld",
-      "author": "himanano",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d559291e-d660-4ce0-a0af-f01e03f77ceb/12/256",
-      "total": 32,
-      "public": 7,
-      "private": 25,
-      "deltaTotal": -7,
-      "deltaPublic": -2,
-      "observedAt": "2026-10-25T09:13:10Z",
-      "history": [
-        [
-          1792899308,
-          25,
-          7,
-          18
-        ],
-        [
-          1792901793,
-          31,
-          10,
-          21
-        ],
-        [
-          1792905380,
-          21,
-          8,
-          13
-        ],
-        [
-          1792908855,
-          25,
-          6,
+          1792905153,
+          45,
+          26,
           19
         ],
         [
-          1792912716,
-          36,
-          7,
-          29
+          1792908743,
+          40,
+          21,
+          19
         ],
         [
-          1792916140,
-          39,
-          9,
-          30
+          1792912386,
+          40,
+          19,
+          21
         ],
         [
-          1792919590,
-          32,
-          7,
+          1792915967,
+          45,
+          22,
+          23
+        ],
+        [
+          1792919433,
+          46,
+          21,
+          25
+        ],
+        [
+          1792923153,
+          45,
+          20,
           25
         ]
       ]
     },
     {
-      "id": "wrld_c5417681-f440-4f20-9fbf-2c6c84cb198a",
-      "name": "VR睡眠マッチング いっしょに寝ようよ",
-      "author": "CHIHAYA ちはや",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_09bbb699-089c-4dc3-a186-7363db8ad65c/3/256",
-      "total": 32,
-      "public": 31,
-      "private": 1,
-      "deltaTotal": -7,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:09:12Z",
-      "history": [
-        [
-          1792898190,
-          78,
-          68,
-          10
-        ],
-        [
-          1792901526,
-          76,
-          65,
-          11
-        ],
-        [
-          1792905072,
-          55,
-          51,
-          4
-        ],
-        [
-          1792908668,
-          52,
-          48,
-          4
-        ],
-        [
-          1792912303,
-          44,
-          39,
-          5
-        ],
-        [
-          1792915913,
-          39,
-          32,
-          7
-        ],
-        [
-          1792919352,
-          32,
-          31,
-          1
-        ]
-      ]
-    },
-    {
-      "id": "wrld_7209e159-e8a2-41b9-8c2e-a9fbc3b3badd",
-      "name": "Basketball Gym",
-      "author": "大田マト",
+      "id": "wrld_36a4f752-6e45-4c37-9eed-279525f3e8c8",
+      "name": "taktie's Gun Dynamics【FULL RELEASE】",
+      "author": "たくてぃー",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_91569925-07bc-4ce6-997f-c3d06ab6d229/19/256",
-      "total": 31,
-      "public": 20,
-      "private": 11,
-      "deltaTotal": -11,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:09:48Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6e761114-7e99-4855-b693-1d1f2f9e6742/8/256",
+      "total": 38,
+      "public": 17,
+      "private": 21,
+      "deltaTotal": -3,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:14:04Z",
       "history": [
         [
-          1792898316,
-          82,
-          37,
-          45
+          1792902092,
+          34,
+          5,
+          29
         ],
         [
-          1792901560,
-          124,
-          36,
-          88
-        ],
-        [
-          1792905104,
-          86,
-          37,
-          49
-        ],
-        [
-          1792908725,
-          47,
-          14,
-          33
-        ],
-        [
-          1792912404,
-          40,
-          14,
-          26
-        ],
-        [
-          1792915972,
-          42,
-          21,
+          1792905471,
+          26,
+          5,
           21
         ],
         [
-          1792919388,
-          31,
-          20,
-          11
-        ]
-      ]
-    },
-    {
-      "id": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
-      "name": "Japan Street 0․457",
-      "author": "NEET ENGINEER",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6e5a0e03-af8b-4503-a00d-0db498b45e64/31/256",
-      "total": 30,
-      "public": 26,
-      "private": 4,
-      "deltaTotal": 15,
-      "deltaPublic": 14,
-      "observedAt": "2026-10-25T09:09:43Z",
-      "history": [
-        [
-          1792899069,
-          12,
-          12,
-          0
-        ],
-        [
-          1792901757,
-          33,
-          14,
-          19
-        ],
-        [
-          1792905214,
-          15,
-          8,
-          7
-        ],
-        [
-          1792908833,
-          18,
-          14,
-          4
-        ],
-        [
-          1792912445,
-          21,
-          11,
-          10
-        ],
-        [
-          1792916029,
-          15,
-          12,
-          3
-        ],
-        [
-          1792919383,
+          1792908964,
           30,
-          26,
-          4
-        ]
-      ]
-    },
-    {
-      "id": "wrld_1d8dd749-8b52-4dfa-b4b1-071e1b93c342",
-      "name": "VR Saber ｜ Open Beta ｜ Beat Saber",
-      "author": "spacebaar",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_df778941-9073-4df8-be71-8118704ec145/5/256",
-      "total": 28,
-      "public": 4,
-      "private": 24,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:12Z",
-      "history": [
-        [
-          1792909111,
-          71,
           7,
-          64
+          23
         ],
         [
-          1792919712,
-          28,
-          4,
-          24
-        ]
-      ]
-    },
-    {
-      "id": "wrld_20a69566-2cbc-48f1-97ca-0f59142cf8e1",
-      "name": "1対1 お砂糖マッチングワールド「つむぎ」",
-      "author": "エンジンかずみ",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_12925371-abb0-4106-987b-f7ff93c7c780/1/256",
-      "total": 28,
-      "public": 28,
-      "private": 0,
-      "deltaTotal": 7,
-      "deltaPublic": 7,
-      "observedAt": "2026-10-25T09:09:39Z",
-      "history": [
-        [
-          1792912500,
-          10,
-          9,
-          1
-        ],
-        [
-          1792915940,
-          21,
-          21,
-          0
-        ],
-        [
-          1792919379,
-          28,
-          28,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_222f501a-5740-4cf2-a6fc-1b76bc2070e1",
-      "name": "日语学习［CN⁄JP］日本語能力試験",
-      "author": "卡卡-かか",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_67d501f0-9755-446b-960a-e697e5825918/14/256",
-      "total": 28,
-      "public": 22,
-      "private": 6,
-      "deltaTotal": 7,
-      "deltaPublic": 5,
-      "observedAt": "2026-10-25T09:10:28Z",
-      "history": [
-        [
-          1792898938,
-          17,
-          15,
-          2
-        ],
-        [
-          1792901739,
-          14,
-          12,
-          2
-        ],
-        [
-          1792905219,
-          23,
-          17,
-          6
-        ],
-        [
-          1792908788,
+          1792912491,
+          39,
           11,
-          10,
-          1
+          28
         ],
         [
-          1792912400,
-          16,
-          12,
-          4
-        ],
-        [
-          1792915980,
-          21,
-          17,
-          4
-        ],
-        [
-          1792919428,
-          28,
-          22,
-          6
-        ]
-      ]
-    },
-    {
-      "id": "wrld_cfb86e57-6227-4a00-b47e-43fd3f1bb105",
-      "name": "Halloween UA - My Hero Academia",
-      "author": "Takato Matsuki",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f918f9d9-4cf1-4921-b10a-5e66de64bf5b/50/256",
-      "total": 27,
-      "public": 25,
-      "private": 2,
-      "deltaTotal": -7,
-      "deltaPublic": -4,
-      "observedAt": "2026-10-25T09:09:16Z",
-      "history": [
-        [
-          1792898122,
-          97,
-          66,
-          31
-        ],
-        [
-          1792901480,
-          97,
-          84,
-          13
-        ],
-        [
-          1792905086,
-          78,
-          48,
-          30
-        ],
-        [
-          1792908637,
-          76,
-          65,
-          11
-        ],
-        [
-          1792912262,
-          61,
-          54,
-          7
-        ],
-        [
-          1792915892,
-          34,
-          29,
-          5
-        ],
-        [
-          1792919356,
+          1792916082,
           27,
-          25,
-          2
+          9,
+          18
+        ],
+        [
+          1792919442,
+          41,
+          17,
+          24
+        ],
+        [
+          1792923244,
+          38,
+          17,
+          21
         ]
       ]
     },
@@ -3711,12 +2998,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_b32cd5ac-96a0-4b37-9e4a-695f6924bd4f/1/256",
-      "total": 24,
-      "public": 13,
-      "private": 11,
-      "deltaTotal": -10,
-      "deltaPublic": -8,
-      "observedAt": "2026-10-25T09:11:54Z",
+      "total": 38,
+      "public": 23,
+      "private": 15,
+      "deltaTotal": 14,
+      "deltaPublic": 10,
+      "observedAt": "2026-10-25T10:11:43Z",
       "history": [
         [
           1792898086,
@@ -3759,90 +3046,485 @@
           24,
           13,
           11
-        ]
-      ]
-    },
-    {
-      "id": "wrld_7ee3b148-348d-487e-853e-9babcd133a35",
-      "name": "Waiting ⁄ 待ち",
-      "author": "_Harim",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ae385941-f87f-4a1e-bd28-663d123fd541/3/256",
-      "total": 24,
-      "public": 9,
-      "private": 15,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:13:19Z",
-      "history": [
+        ],
         [
-          1792919599,
-          24,
-          9,
+          1792923103,
+          38,
+          23,
           15
         ]
       ]
     },
     {
-      "id": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
-      "name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
-      "author": "やがて捨てられる補助輪",
+      "id": "wrld_38adf2db-37c0-40a1-93ad-3c7e41006523",
+      "name": "Shirai",
+      "author": "TsunomakiJesus",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_bd236a2e-8a71-450e-9409-274439a4ccaa/2/256",
+      "total": 37,
+      "public": 4,
+      "private": 33,
+      "deltaTotal": -3,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:20:34Z",
+      "history": [
+        [
+          1792905461,
+          26,
+          4,
+          22
+        ],
+        [
+          1792909197,
+          33,
+          3,
+          30
+        ],
+        [
+          1792912852,
+          26,
+          4,
+          22
+        ],
+        [
+          1792919558,
+          40,
+          8,
+          32
+        ],
+        [
+          1792923634,
+          37,
+          4,
+          33
+        ]
+      ]
+    },
+    {
+      "id": "wrld_c497f0ab-70fe-474e-9f38-54348bdcdc24",
+      "name": "デュ部屋",
+      "author": "V4ULTN_ぼるとん",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ade33d74-3c28-4fce-a819-f9ad2aacf577/8/256",
+      "total": 37,
+      "public": 10,
+      "private": 27,
+      "deltaTotal": -6,
+      "deltaPublic": 5,
+      "observedAt": "2026-10-25T10:14:13Z",
+      "history": [
+        [
+          1792899257,
+          15,
+          9,
+          6
+        ],
+        [
+          1792901869,
+          13,
+          7,
+          6
+        ],
+        [
+          1792905340,
+          21,
+          9,
+          12
+        ],
+        [
+          1792908911,
+          22,
+          7,
+          15
+        ],
+        [
+          1792912431,
+          25,
+          12,
+          13
+        ],
+        [
+          1792919725,
+          43,
+          5,
+          38
+        ],
+        [
+          1792923253,
+          37,
+          10,
+          27
+        ]
+      ]
+    },
+    {
+      "id": "wrld_f97ad04b-958d-4f8e-8df1-06eacdf84417",
+      "name": "SoulLink -ソウルリンク- VR Card Duel",
+      "author": "voぞぬov",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1c06806c-ca40-4430-a3b9-50c1be6c6b82/10/256",
-      "total": 23,
-      "public": 23,
-      "private": 0,
-      "deltaTotal": -11,
-      "deltaPublic": -11,
-      "observedAt": "2026-10-25T09:09:21Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_64f9513b-91df-4d47-8684-6a662e704d6d/3/256",
+      "total": 37,
+      "public": 18,
+      "private": 19,
+      "deltaTotal": 0,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:12:23Z",
       "history": [
         [
-          1792898758,
-          17,
-          17,
-          0
+          1792898925,
+          26,
+          15,
+          11
         ],
         [
-          1792901617,
-          17,
-          17,
-          0
+          1792901761,
+          25,
+          13,
+          12
         ],
         [
-          1792905131,
+          1792905179,
+          41,
+          20,
+          21
+        ],
+        [
+          1792908780,
+          35,
+          16,
+          19
+        ],
+        [
+          1792912409,
+          32,
+          16,
+          16
+        ],
+        [
+          1792915989,
+          32,
+          19,
+          13
+        ],
+        [
+          1792919406,
+          37,
+          19,
+          18
+        ],
+        [
+          1792923143,
+          37,
           18,
+          19
+        ]
+      ]
+    },
+    {
+      "id": "wrld_0d8e96f5-7aa1-443d-a414-9a153b87c1d6",
+      "name": "PixelWorld",
+      "author": "淵華-huchika-",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_40b77e14-4217-4b8d-8e17-8a0ec64e9ced/6/256",
+      "total": 35,
+      "public": 4,
+      "private": 31,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:18:18Z",
+      "history": [
+        [
+          1792923498,
+          35,
+          4,
+          31
+        ]
+      ]
+    },
+    {
+      "id": "wrld_f612c90d-1a12-4355-8683-215c3a34c8ed",
+      "name": "Thad Magic Mirrors - マジカル鏡",
+      "author": "Thad Gyther",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_eb122275-a2d2-4a42-9012-052c5d060f7d/7/256",
+      "total": 35,
+      "public": 3,
+      "private": 32,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:18:28Z",
+      "history": [
+        [
+          1792923508,
+          35,
+          3,
+          32
+        ]
+      ]
+    },
+    {
+      "id": "wrld_0ed69379-d849-4d58-a0c3-d6bcbcadbe48",
+      "name": "MedalGameWorld",
+      "author": "himanano",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d559291e-d660-4ce0-a0af-f01e03f77ceb/12/256",
+      "total": 34,
+      "public": 10,
+      "private": 24,
+      "deltaTotal": 2,
+      "deltaPublic": 3,
+      "observedAt": "2026-10-25T10:14:49Z",
+      "history": [
+        [
+          1792899308,
+          25,
+          7,
+          18
+        ],
+        [
+          1792901793,
+          31,
+          10,
+          21
+        ],
+        [
+          1792905380,
+          21,
+          8,
+          13
+        ],
+        [
+          1792908855,
+          25,
+          6,
+          19
+        ],
+        [
+          1792912716,
+          36,
+          7,
+          29
+        ],
+        [
+          1792916140,
+          39,
+          9,
+          30
+        ],
+        [
+          1792919590,
+          32,
+          7,
+          25
+        ],
+        [
+          1792923289,
+          34,
+          10,
+          24
+        ]
+      ]
+    },
+    {
+      "id": "wrld_65da52d3-2a81-40fd-a388-8c3e3fabb033",
+      "name": "夜見駅",
+      "author": "PanpacaTiltott",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f889b929-aadc-4c05-872c-912da9731f2a/2/256",
+      "total": 32,
+      "public": 9,
+      "private": 23,
+      "deltaTotal": -1,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:14:17Z",
+      "history": [
+        [
+          1792899489,
+          14,
+          2,
+          12
+        ],
+        [
+          1792905398,
+          21,
+          4,
+          17
+        ],
+        [
+          1792909016,
+          50,
+          6,
+          44
+        ],
+        [
+          1792912607,
+          24,
+          4,
+          20
+        ],
+        [
+          1792916176,
+          31,
+          8,
+          23
+        ],
+        [
+          1792919620,
+          33,
+          9,
+          24
+        ],
+        [
+          1792923257,
+          32,
+          9,
+          23
+        ]
+      ]
+    },
+    {
+      "id": "wrld_00000000-0000-0000-0000-000001234567",
+      "name": "Apt․ 404［CN⁄模型房⁄电影院⁄挂机⁄聊天⁄Avatar World⁄Cinema］",
+      "author": "Xiao Nan",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1d462fba-f553-42d6-998b-e23c92651c0e/2/256",
+      "total": 31,
+      "public": 11,
+      "private": 20,
+      "deltaTotal": -3,
+      "deltaPublic": 3,
+      "observedAt": "2026-10-25T10:14:36Z",
+      "history": [
+        [
+          1792898907,
+          23,
+          4,
+          19
+        ],
+        [
+          1792905251,
+          26,
+          14,
+          12
+        ],
+        [
+          1792909039,
+          20,
+          4,
+          16
+        ],
+        [
+          1792912505,
+          25,
+          7,
+          18
+        ],
+        [
+          1792916020,
+          40,
+          13,
+          27
+        ],
+        [
+          1792919482,
+          34,
+          8,
+          26
+        ],
+        [
+          1792923276,
+          31,
+          11,
+          20
+        ]
+      ]
+    },
+    {
+      "id": "wrld_e7be3d4d-4c39-4219-9b17-5094c3193050",
+      "name": "VRC HandBall",
+      "author": "Parottey",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ab94048e-f5cd-4aa7-8d8d-47e3a70677c8/3/256",
+      "total": 31,
+      "public": 18,
+      "private": 13,
+      "deltaTotal": -36,
+      "deltaPublic": 1,
+      "observedAt": "2026-10-25T10:12:10Z",
+      "history": [
+        [
+          1792916034,
+          29,
+          12,
+          17
+        ],
+        [
+          1792919424,
+          67,
+          17,
+          50
+        ],
+        [
+          1792923130,
+          31,
           18,
-          0
+          13
+        ]
+      ]
+    },
+    {
+      "id": "wrld_75178a00-fee0-47a0-b5cf-740d8c2fd521",
+      "name": "BOOTH Room",
+      "author": "pixiv Inc․",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f6302780-c020-4b97-ae9f-35cfb09f35c5/1/256",
+      "total": 30,
+      "public": 4,
+      "private": 26,
+      "deltaTotal": -8,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:17:18Z",
+      "history": [
+        [
+          1792919900,
+          38,
+          4,
+          34
         ],
         [
-          1792908673,
-          39,
-          39,
-          0
-        ],
-        [
-          1792912313,
-          39,
-          39,
-          0
-        ],
-        [
-          1792915922,
-          34,
-          34,
-          0
-        ],
-        [
-          1792919361,
-          23,
-          23,
-          0
+          1792923438,
+          30,
+          4,
+          26
         ]
       ]
     },
@@ -3855,59 +3537,315 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f4d84a07-2840-4fd8-a1b6-14fda33868cc/3/256",
-      "total": 23,
+      "total": 28,
       "public": 9,
-      "private": 14,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:13:05Z",
+      "private": 19,
+      "deltaTotal": 5,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:13:36Z",
       "history": [
         [
           1792919585,
           23,
           9,
           14
+        ],
+        [
+          1792923216,
+          28,
+          9,
+          19
         ]
       ]
     },
     {
-      "id": "wrld_42b0dd34-9548-476b-b0bb-0eb24ee06db3",
-      "name": "Relix",
-      "author": "xpmmm",
+      "id": "wrld_1d8dd749-8b52-4dfa-b4b1-071e1b93c342",
+      "name": "VR Saber ｜ Open Beta ｜ Beat Saber",
+      "author": "spacebaar",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_df778941-9073-4df8-be71-8118704ec145/5/256",
+      "total": 27,
+      "public": 1,
+      "private": 26,
+      "deltaTotal": -1,
+      "deltaPublic": -3,
+      "observedAt": "2026-10-25T10:16:33Z",
+      "history": [
+        [
+          1792909111,
+          71,
+          7,
+          64
+        ],
+        [
+          1792919712,
+          28,
+          4,
+          24
+        ],
+        [
+          1792923393,
+          27,
+          1,
+          26
+        ]
+      ]
+    },
+    {
+      "id": "wrld_7ee3b148-348d-487e-853e-9babcd133a35",
+      "name": "Waiting ⁄ 待ち",
+      "author": "_Harim",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ec5d8da0-51cb-4220-978e-90c891444772/2/256",
-      "total": 22,
-      "public": 5,
-      "private": 17,
-      "deltaTotal": -1,
-      "deltaPublic": 1,
-      "observedAt": "2026-10-25T09:14:58Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ae385941-f87f-4a1e-bd28-663d123fd541/3/256",
+      "total": 27,
+      "public": 3,
+      "private": 24,
+      "deltaTotal": 3,
+      "deltaPublic": -6,
+      "observedAt": "2026-10-25T10:14:54Z",
       "history": [
         [
-          1792909192,
-          19,
-          5,
-          14
+          1792919599,
+          24,
+          9,
+          15
         ],
         [
-          1792912848,
+          1792923294,
+          27,
+          3,
+          24
+        ]
+      ]
+    },
+    {
+      "id": "wrld_44897904-a665-44ad-aefa-781f47c73117",
+      "name": "Avatar Museum 14",
+      "author": "おおかみちゃん",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ef1a9ef1-efe0-4054-b034-0862e67d0653/3/256",
+      "total": 26,
+      "public": 5,
+      "private": 21,
+      "deltaTotal": 8,
+      "deltaPublic": -3,
+      "observedAt": "2026-10-25T10:13:23Z",
+      "history": [
+        [
+          1792912630,
+          30,
+          9,
+          21
+        ],
+        [
+          1792915984,
+          37,
+          17,
+          20
+        ],
+        [
+          1792919576,
+          18,
+          8,
+          10
+        ],
+        [
+          1792923203,
+          26,
+          5,
+          21
+        ]
+      ]
+    },
+    {
+      "id": "wrld_66a5dc90-68c3-40b9-bfe0-f229e08c3322",
+      "name": "V睡ラウンジ -もうふもふもふ-",
+      "author": "モモリータ",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3a1b20a9-5aeb-4b4d-9fce-cff00228b3bc/5/256",
+      "total": 26,
+      "public": 24,
+      "private": 2,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:11:52Z",
+      "history": [
+        [
+          1792898217,
+          75,
+          63,
+          12
+        ],
+        [
+          1792901517,
+          54,
+          47,
+          7
+        ],
+        [
+          1792905082,
+          45,
+          40,
+          5
+        ],
+        [
+          1792908701,
+          40,
+          37,
+          3
+        ],
+        [
+          1792912275,
+          44,
+          42,
+          2
+        ],
+        [
+          1792915887,
+          44,
+          42,
+          2
+        ],
+        [
+          1792923112,
+          26,
+          24,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2",
+      "name": "Starlight lane",
+      "author": "tp․jp",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ee289801-3c17-4e65-b3b1-85559faba42d/5/256",
+      "total": 23,
+      "public": 19,
+      "private": 4,
+      "deltaTotal": 6,
+      "deltaPublic": 3,
+      "observedAt": "2026-10-25T10:11:30Z",
+      "history": [
+        [
+          1792898420,
+          56,
+          30,
+          26
+        ],
+        [
+          1792905054,
+          54,
+          47,
+          7
+        ],
+        [
+          1792908692,
+          26,
           21,
-          4,
-          17
+          5
         ],
         [
-          1792916368,
+          1792912326,
+          30,
+          21,
+          9
+        ],
+        [
+          1792916016,
+          15,
+          14,
+          1
+        ],
+        [
+          1792919366,
+          17,
+          16,
+          1
+        ],
+        [
+          1792923090,
           23,
-          4,
-          19
+          19,
+          4
+        ]
+      ]
+    },
+    {
+      "id": "wrld_222f501a-5740-4cf2-a6fc-1b76bc2070e1",
+      "name": "日语学习［CN⁄JP］日本語能力試験",
+      "author": "卡卡-かか",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_67d501f0-9755-446b-960a-e697e5825918/14/256",
+      "total": 23,
+      "public": 18,
+      "private": 5,
+      "deltaTotal": -5,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:12:38Z",
+      "history": [
+        [
+          1792898938,
+          17,
+          15,
+          2
         ],
         [
-          1792919698,
+          1792901739,
+          14,
+          12,
+          2
+        ],
+        [
+          1792905219,
+          23,
+          17,
+          6
+        ],
+        [
+          1792908788,
+          11,
+          10,
+          1
+        ],
+        [
+          1792912400,
+          16,
+          12,
+          4
+        ],
+        [
+          1792915980,
+          21,
+          17,
+          4
+        ],
+        [
+          1792919428,
+          28,
           22,
-          5,
-          17
+          6
+        ],
+        [
+          1792923158,
+          23,
+          18,
+          5
         ]
       ]
     },
@@ -3919,12 +3857,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2ec973b8-efd4-4aad-b8c2-cb091b72ba09/1/256",
-      "total": 22,
-      "public": 22,
+      "total": 23,
+      "public": 23,
       "private": 0,
-      "deltaTotal": -11,
-      "deltaPublic": -11,
-      "observedAt": "2026-10-25T09:09:31Z",
+      "deltaTotal": 1,
+      "deltaPublic": 1,
+      "observedAt": "2026-10-25T10:12:15Z",
       "history": [
         [
           1792898868,
@@ -3967,66 +3905,264 @@
           22,
           22,
           0
+        ],
+        [
+          1792923135,
+          23,
+          23,
+          0
         ]
       ]
     },
     {
-      "id": "wrld_0153e19d-9447-4365-8c69-7559fbc4e1a8",
-      "name": "Stillwoods Execution ［ CHALLENGE MODE ］",
-      "author": "Oerlikon",
+      "id": "wrld_175f8d7d-fd44-476a-8242-8aaef5ba5b33",
+      "name": "Japan Talk Room 日本人向け談話室 ［ JTR JP ］",
+      "author": "やがて捨てられる補助輪",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1c06806c-ca40-4430-a3b9-50c1be6c6b82/10/256",
+      "total": 21,
+      "public": 20,
+      "private": 1,
+      "deltaTotal": -2,
+      "deltaPublic": -3,
+      "observedAt": "2026-10-25T10:11:21Z",
+      "history": [
+        [
+          1792898758,
+          17,
+          17,
+          0
+        ],
+        [
+          1792901617,
+          17,
+          17,
+          0
+        ],
+        [
+          1792905131,
+          18,
+          18,
+          0
+        ],
+        [
+          1792908673,
+          39,
+          39,
+          0
+        ],
+        [
+          1792912313,
+          39,
+          39,
+          0
+        ],
+        [
+          1792915922,
+          34,
+          34,
+          0
+        ],
+        [
+          1792919361,
+          23,
+          23,
+          0
+        ],
+        [
+          1792923081,
+          21,
+          20,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "wrld_20a69566-2cbc-48f1-97ca-0f59142cf8e1",
+      "name": "1対1 お砂糖マッチングワールド「つむぎ」",
+      "author": "エンジンかずみ",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_12925371-abb0-4106-987b-f7ff93c7c780/1/256",
+      "total": 21,
+      "public": 21,
+      "private": 0,
+      "deltaTotal": -7,
+      "deltaPublic": -7,
+      "observedAt": "2026-10-25T10:11:57Z",
+      "history": [
+        [
+          1792912500,
+          10,
+          9,
+          1
+        ],
+        [
+          1792915940,
+          21,
+          21,
+          0
+        ],
+        [
+          1792919379,
+          28,
+          28,
+          0
+        ],
+        [
+          1792923117,
+          21,
+          21,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_42b0dd34-9548-476b-b0bb-0eb24ee06db3",
+      "name": "Relix",
+      "author": "xpmmm",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ec5d8da0-51cb-4220-978e-90c891444772/2/256",
+      "total": 20,
+      "public": 6,
+      "private": 14,
+      "deltaTotal": -2,
+      "deltaPublic": 1,
+      "observedAt": "2026-10-25T10:16:24Z",
+      "history": [
+        [
+          1792909192,
+          19,
+          5,
+          14
+        ],
+        [
+          1792912848,
+          21,
+          4,
+          17
+        ],
+        [
+          1792916368,
+          23,
+          4,
+          19
+        ],
+        [
+          1792919698,
+          22,
+          5,
+          17
+        ],
+        [
+          1792923384,
+          20,
+          6,
+          14
+        ]
+      ]
+    },
+    {
+      "id": "wrld_bba639ec-531b-450b-97da-7b37b9351f1d",
+      "name": "怪奇現象調査バイト",
+      "author": "新井ぐま",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_4a7d78c1-72eb-4927-ac40-3cabb7a7f682/6/256",
-      "total": 21,
-      "public": 10,
-      "private": 11,
-      "deltaTotal": -19,
-      "deltaPublic": -6,
-      "observedAt": "2026-10-25T09:11:36Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_7feeaf23-c78d-43fd-8cb1-e3aabb4328fc/4/256",
+      "total": 20,
+      "public": 3,
+      "private": 17,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:33Z",
       "history": [
         [
-          1792898581,
-          41,
-          16,
-          25
+          1792909020,
+          36,
+          5,
+          31
         ],
         [
-          1792901650,
-          65,
-          10,
-          55
+          1792923693,
+          20,
+          3,
+          17
+        ]
+      ]
+    },
+    {
+      "id": "wrld_02cb84c8-446a-484b-b52b-2c1777e55f8d",
+      "name": "Japan Street 0․457",
+      "author": "NEET ENGINEER",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6e5a0e03-af8b-4503-a00d-0db498b45e64/31/256",
+      "total": 19,
+      "public": 16,
+      "private": 3,
+      "deltaTotal": -11,
+      "deltaPublic": -10,
+      "observedAt": "2026-10-25T10:12:51Z",
+      "history": [
+        [
+          1792899069,
+          12,
+          12,
+          0
         ],
         [
-          1792905157,
-          44,
-          25,
+          1792901757,
+          33,
+          14,
           19
         ],
         [
-          1792908734,
-          48,
-          23,
-          25
+          1792905214,
+          15,
+          8,
+          7
         ],
         [
-          1792912359,
-          53,
+          1792908833,
+          18,
+          14,
+          4
+        ],
+        [
+          1792912445,
           21,
-          32
+          11,
+          10
         ],
         [
-          1792915998,
-          40,
+          1792916029,
+          15,
+          12,
+          3
+        ],
+        [
+          1792919383,
+          30,
+          26,
+          4
+        ],
+        [
+          1792923171,
+          19,
           16,
-          24
-        ],
-        [
-          1792919496,
-          21,
-          10,
-          11
+          3
         ]
       ]
     },
@@ -4038,12 +4174,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ffd05786-3e46-46ec-9624-50fb441d894b/2/256",
-      "total": 20,
-      "public": 8,
-      "private": 12,
-      "deltaTotal": 6,
-      "deltaPublic": 4,
-      "observedAt": "2026-10-25T09:11:45Z",
+      "total": 18,
+      "public": 7,
+      "private": 11,
+      "deltaTotal": -2,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:14:27Z",
       "history": [
         [
           1792902097,
@@ -4080,175 +4216,232 @@
           20,
           8,
           12
-        ]
-      ]
-    },
-    {
-      "id": "wrld_44897904-a665-44ad-aefa-781f47c73117",
-      "name": "Avatar Museum 14",
-      "author": "おおかみちゃん",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ef1a9ef1-efe0-4054-b034-0862e67d0653/3/256",
-      "total": 18,
-      "public": 8,
-      "private": 10,
-      "deltaTotal": -19,
-      "deltaPublic": -9,
-      "observedAt": "2026-10-25T09:12:56Z",
-      "history": [
-        [
-          1792912630,
-          30,
-          9,
-          21
         ],
         [
-          1792915984,
-          37,
-          17,
-          20
-        ],
-        [
-          1792919576,
+          1792923267,
           18,
-          8,
-          10
+          7,
+          11
         ]
       ]
     },
     {
-      "id": "wrld_0c3caeaa-7224-4800-aa64-bc473ccb18a2",
-      "name": "Starlight lane",
-      "author": "tp․jp",
+      "id": "wrld_471a8f7c-31e9-4162-bab9-915a69f87d1a",
+      "name": "Tokyo Jujutsu High - JJK˸ Cursed Clash",
+      "author": "Takato Matsuki",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ee289801-3c17-4e65-b3b1-85559faba42d/5/256",
-      "total": 17,
-      "public": 16,
-      "private": 1,
-      "deltaTotal": 2,
-      "deltaPublic": 2,
-      "observedAt": "2026-10-25T09:09:26Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_2b410884-e81a-408b-b4e0-13388547e59a/8/256",
+      "total": 18,
+      "public": 15,
+      "private": 3,
+      "deltaTotal": -29,
+      "deltaPublic": -22,
+      "observedAt": "2026-10-25T10:11:39Z",
       "history": [
         [
-          1792898420,
-          56,
-          30,
-          26
+          1792897965,
+          135,
+          121,
+          14
         ],
         [
-          1792905054,
-          54,
-          47,
-          7
-        ],
-        [
-          1792908692,
-          26,
-          21,
-          5
-        ],
-        [
-          1792912326,
-          30,
-          21,
-          9
-        ],
-        [
-          1792916016,
-          15,
-          14,
-          1
-        ],
-        [
-          1792919366,
-          17,
-          16,
-          1
-        ]
-      ]
-    },
-    {
-      "id": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
-      "name": "Beyond a bit - 想像のちょっと先へ",
-      "author": "EstyOctober",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_831d3277-b373-4deb-bc6a-04a0227682e0/7/256",
-      "total": 16,
-      "public": 3,
-      "private": 13,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:56Z",
-      "history": [
-        [
-          1792898622,
-          27,
-          20,
-          7
-        ],
-        [
-          1792901708,
-          42,
-          21,
-          21
-        ],
-        [
-          1792905223,
-          31,
-          13,
+          1792901471,
+          110,
+          92,
           18
         ],
         [
-          1792908793,
-          16,
-          3,
-          13
+          1792905036,
+          76,
+          59,
+          17
         ],
         [
-          1792912440,
-          22,
-          9,
-          13
+          1792908655,
+          50,
+          44,
+          6
         ],
         [
-          1792919756,
-          16,
-          3,
-          13
+          1792912267,
+          45,
+          40,
+          5
+        ],
+        [
+          1792915873,
+          56,
+          52,
+          4
+        ],
+        [
+          1792919339,
+          47,
+          37,
+          10
+        ],
+        [
+          1792923099,
+          18,
+          15,
+          3
         ]
       ]
     },
     {
-      "id": "wrld_4ae52b66-3445-40a9-8c02-caf0d1347ac8",
-      "name": "Japan Rainy Day",
-      "author": "̍̍̍̍̍̍̍̍̍̍̍̍",
+      "id": "wrld_57437f71-f642-4d8a-9b62-7ac200d16e71",
+      "name": "KR-JP 日本語話者のための韓国語勉強｜Korean Study for Japanese",
+      "author": "御寿司太郎",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_8c11d3a9-992a-44d1-bb3f-8c4bb6cc8246/4/256",
-      "total": 16,
-      "public": 5,
-      "private": 11,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:16:33Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_456b6a5e-af64-497b-9d00-b05b7716c9aa/3/256",
+      "total": 18,
+      "public": 17,
+      "private": 1,
+      "deltaTotal": 8,
+      "deltaPublic": 9,
+      "observedAt": "2026-10-25T10:12:19Z",
       "history": [
         [
-          1792919793,
-          16,
-          5,
+          1792912476,
+          9,
+          7,
+          2
+        ],
+        [
+          1792916048,
+          10,
+          9,
+          1
+        ],
+        [
+          1792919460,
+          10,
+          8,
+          2
+        ],
+        [
+          1792923139,
+          18,
+          17,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "wrld_8df12c98-a330-486c-bd0b-81232e75e4a3",
+      "name": "「花の向こうに」 - Beyond the Flowers",
+      "author": "Art_Vin",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_922e130b-4abb-4591-a05f-149d1f406c20/7/256",
+      "total": 18,
+      "public": 0,
+      "private": 18,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:01Z",
+      "history": [
+        [
+          1792923661,
+          18,
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "id": "wrld_90652a81-f5f3-43aa-b16f-c9ff19365f9f",
+      "name": "作業部屋",
+      "author": "MMZK_mp3",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_db2b1242-20d0-4a12-923f-fb0d7caee89c/9/256",
+      "total": 18,
+      "public": 3,
+      "private": 15,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:18:54Z",
+      "history": [
+        [
+          1792923534,
+          18,
+          3,
+          15
+        ]
+      ]
+    },
+    {
+      "id": "wrld_c5417681-f440-4f20-9fbf-2c6c84cb198a",
+      "name": "VR睡眠マッチング いっしょに寝ようよ",
+      "author": "CHIHAYA ちはや",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_09bbb699-089c-4dc3-a186-7363db8ad65c/3/256",
+      "total": 18,
+      "public": 17,
+      "private": 1,
+      "deltaTotal": -14,
+      "deltaPublic": -14,
+      "observedAt": "2026-10-25T10:12:46Z",
+      "history": [
+        [
+          1792898190,
+          78,
+          68,
+          10
+        ],
+        [
+          1792901526,
+          76,
+          65,
           11
+        ],
+        [
+          1792905072,
+          55,
+          51,
+          4
+        ],
+        [
+          1792908668,
+          52,
+          48,
+          4
+        ],
+        [
+          1792912303,
+          44,
+          39,
+          5
+        ],
+        [
+          1792915913,
+          39,
+          32,
+          7
+        ],
+        [
+          1792919352,
+          32,
+          31,
+          1
+        ],
+        [
+          1792923166,
+          18,
+          17,
+          1
         ]
       ]
     },
@@ -4261,12 +4454,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_0eafaf94-1eca-4670-9c1b-58018e0593dc/5/256",
-      "total": 16,
-      "public": 7,
-      "private": 9,
-      "deltaTotal": 6,
+      "total": 18,
+      "public": 6,
+      "private": 12,
+      "deltaTotal": 2,
       "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:13:23Z",
+      "observedAt": "2026-10-25T10:20:57Z",
       "history": [
         [
           1792898599,
@@ -4309,101 +4502,258 @@
           16,
           7,
           9
-        ]
-      ]
-    },
-    {
-      "id": "wrld_21be22fc-39d6-48bb-aca8-bffed0e2bc5a",
-      "name": "Café Floréal",
-      "author": "澤村さん",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_934e6bc0-ba92-4bfc-9abb-8c8867299ba0/2/256",
-      "total": 14,
-      "public": 3,
-      "private": 11,
-      "deltaTotal": -4,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:16:05Z",
-      "history": [
-        [
-          1792901938,
-          7,
-          4,
-          3
         ],
         [
-          1792912785,
-          19,
-          3,
-          16
-        ],
-        [
-          1792916476,
+          1792923657,
           18,
-          4,
-          14
-        ],
-        [
-          1792919765,
-          14,
-          3,
-          11
+          6,
+          12
         ]
       ]
     },
     {
-      "id": "wrld_b177e242-dbfd-4b8d-b396-fa72096ac535",
-      "name": "Karaoke TORI 토리 노래방",
-      "author": "ＴＯＲＩ",
+      "id": "wrld_18e01005-beb8-4a28-bb74-f789de8494a7",
+      "name": "［JP‚EN‚CN‚KR］VRC卓球 VRC Table Tennis",
+      "author": "Gutty_007",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a14c097a-9882-4d09-8765-932321ff8a39/24/256",
-      "total": 14,
-      "public": 14,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_9daa4171-102b-4325-a6cc-2a4244bb8849/7/256",
+      "total": 17,
+      "public": 5,
+      "private": 12,
+      "deltaTotal": -24,
+      "deltaPublic": -11,
+      "observedAt": "2026-10-25T10:13:55Z",
+      "history": [
+        [
+          1792899431,
+          27,
+          10,
+          17
+        ],
+        [
+          1792901888,
+          27,
+          11,
+          16
+        ],
+        [
+          1792905197,
+          31,
+          12,
+          19
+        ],
+        [
+          1792908819,
+          24,
+          9,
+          15
+        ],
+        [
+          1792912566,
+          20,
+          7,
+          13
+        ],
+        [
+          1792916086,
+          21,
+          8,
+          13
+        ],
+        [
+          1792919464,
+          41,
+          16,
+          25
+        ],
+        [
+          1792923235,
+          17,
+          5,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "wrld_7209e159-e8a2-41b9-8c2e-a9fbc3b3badd",
+      "name": "Basketball Gym",
+      "author": "大田マト",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_91569925-07bc-4ce6-997f-c3d06ab6d229/19/256",
+      "total": 17,
+      "public": 11,
+      "private": 6,
+      "deltaTotal": -14,
+      "deltaPublic": -9,
+      "observedAt": "2026-10-25T10:13:59Z",
+      "history": [
+        [
+          1792898316,
+          82,
+          37,
+          45
+        ],
+        [
+          1792901560,
+          124,
+          36,
+          88
+        ],
+        [
+          1792905104,
+          86,
+          37,
+          49
+        ],
+        [
+          1792908725,
+          47,
+          14,
+          33
+        ],
+        [
+          1792912404,
+          40,
+          14,
+          26
+        ],
+        [
+          1792915972,
+          42,
+          21,
+          21
+        ],
+        [
+          1792919388,
+          31,
+          20,
+          11
+        ],
+        [
+          1792923239,
+          17,
+          11,
+          6
+        ]
+      ]
+    },
+    {
+      "id": "wrld_672889ba-2675-40d3-9a60-5c9767f0030e",
+      "name": "토리노래방 이벤트 월드",
+      "author": "ＴＯＲＩ",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_b2689a33-12b8-4f73-903e-ed05bdaa32c4/3/256",
+      "total": 16,
+      "public": 16,
       "private": 0,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:11:09Z",
+      "observedAt": "2026-10-25T10:13:18Z",
       "history": [
         [
-          1792899779,
-          11,
-          7,
-          4
-        ],
-        [
-          1792901788,
+          1792923198,
           16,
-          8,
-          8
-        ],
-        [
-          1792905434,
           16,
-          4,
-          12
-        ],
-        [
-          1792909161,
-          13,
-          5,
-          8
-        ],
-        [
-          1792912514,
-          20,
-          11,
-          9
-        ],
-        [
-          1792919469,
-          14,
-          14,
           0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_cfb86e57-6227-4a00-b47e-43fd3f1bb105",
+      "name": "Halloween UA - My Hero Academia",
+      "author": "Takato Matsuki",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f918f9d9-4cf1-4921-b10a-5e66de64bf5b/50/256",
+      "total": 16,
+      "public": 11,
+      "private": 5,
+      "deltaTotal": -11,
+      "deltaPublic": -14,
+      "observedAt": "2026-10-25T10:15:11Z",
+      "history": [
+        [
+          1792898122,
+          97,
+          66,
+          31
+        ],
+        [
+          1792901480,
+          97,
+          84,
+          13
+        ],
+        [
+          1792905086,
+          78,
+          48,
+          30
+        ],
+        [
+          1792908637,
+          76,
+          65,
+          11
+        ],
+        [
+          1792912262,
+          61,
+          54,
+          7
+        ],
+        [
+          1792915892,
+          34,
+          29,
+          5
+        ],
+        [
+          1792919356,
+          27,
+          25,
+          2
+        ],
+        [
+          1792923311,
+          16,
+          11,
+          5
+        ]
+      ]
+    },
+    {
+      "id": "wrld_8404dc1a-a273-42f5-b998-25785ee1edee",
+      "name": "宇宙の寝床 - The Bedroom of the Universe",
+      "author": "Ameuma773",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_7d9a1215-d009-4ced-bf5c-46a4e253a26e/3/256",
+      "total": 15,
+      "public": 2,
+      "private": 13,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:28Z",
+      "history": [
+        [
+          1792923688,
+          15,
+          2,
+          13
         ]
       ]
     },
@@ -4415,12 +4765,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_9923117f-ba2e-4c77-9b05-9ed06919cad3/3/256",
-      "total": 13,
-      "public": 5,
-      "private": 8,
-      "deltaTotal": 0,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:17:39Z",
+      "total": 15,
+      "public": 4,
+      "private": 11,
+      "deltaTotal": 2,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:18:32Z",
       "history": [
         [
           1792912762,
@@ -4439,94 +4789,143 @@
           13,
           5,
           8
-        ]
-      ]
-    },
-    {
-      "id": "wrld_b8699f75-239e-4a81-80c9-731cb51a656f",
-      "name": "FX Fighter Coop Battle",
-      "author": "ikita",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3736bf86-76f8-455d-8668-8b577f99b862/4/256",
-      "total": 13,
-      "public": 4,
-      "private": 9,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:16:15Z",
-      "history": [
+        ],
         [
-          1792919775,
-          13,
+          1792923512,
+          15,
           4,
-          9
-        ]
-      ]
-    },
-    {
-      "id": "wrld_136742d8-9604-42cb-a1be-99a2bf98c864",
-      "name": "星あかりの渚 - Starlight Shore",
-      "author": "HANI․",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_42fcd148-93b9-4f37-a194-bfa60005478e/6/256",
-      "total": 12,
-      "public": 1,
-      "private": 11,
-      "deltaTotal": -4,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:18:02Z",
-      "history": [
-        [
-          1792905402,
-          29,
-          5,
-          24
-        ],
-        [
-          1792912611,
-          24,
-          4,
-          20
-        ],
-        [
-          1792916222,
-          16,
-          2,
-          14
-        ],
-        [
-          1792919882,
-          12,
-          1,
           11
         ]
       ]
     },
     {
-      "id": "wrld_269fa2ee-33e6-4505-b44f-fd1b3e4b6262",
-      "name": "小雨のあの日-A drizzly day",
-      "author": "HANI․",
+      "id": "wrld_ff6e01fb-b75f-4ad4-95e1-a2180712f625",
+      "name": "Dungeon Idle˸ Portal Defenders ［BETA］",
+      "author": "Madrigueras",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e1b82b51-fcf1-4547-a111-e6b631d2963a/5/256",
+      "total": 15,
+      "public": 2,
+      "private": 13,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:22:53Z",
+      "history": [
+        [
+          1792923773,
+          15,
+          2,
+          13
+        ]
+      ]
+    },
+    {
+      "id": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
+      "name": "ガンナガン ⁄ GUN AND GUN",
+      "author": "mouri314",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_785f7eab-3a5b-4e58-97af-1ee03356f331/9/256",
+      "total": 14,
+      "public": 0,
+      "private": 14,
+      "deltaTotal": 5,
+      "deltaPublic": -9,
+      "observedAt": "2026-10-25T10:21:19Z",
+      "history": [
+        [
+          1792909003,
+          11,
+          8,
+          3
+        ],
+        [
+          1792912562,
+          11,
+          8,
+          3
+        ],
+        [
+          1792916162,
+          12,
+          10,
+          2
+        ],
+        [
+          1792919536,
+          9,
+          9,
+          0
+        ],
+        [
+          1792923679,
+          14,
+          0,
+          14
+        ]
+      ]
+    },
+    {
+      "id": "wrld_6b5d5bc6-765b-486c-a3c7-03836ef2a373",
+      "name": "WBD VRC Baseball （野球）",
+      "author": "썬써니_",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c7ac8963-e33c-47fe-8ed8-c5bca7e2a18c/8/256",
+      "total": 13,
+      "public": 3,
+      "private": 10,
+      "deltaTotal": -23,
+      "deltaPublic": -2,
+      "observedAt": "2026-10-25T10:15:56Z",
+      "history": [
+        [
+          1792920026,
+          36,
+          5,
+          31
+        ],
+        [
+          1792923356,
+          13,
+          3,
+          10
+        ]
+      ]
+    },
+    {
+      "id": "wrld_a3575cb5-b0e2-4f30-b5a1-632459f15a69",
+      "name": "季節の境界 【The Seasonal Boundaries】",
+      "author": "くぅ-ねる",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_4b1724ff-2ae1-482a-9885-f5ad4cceb723/1/256",
-      "total": 12,
-      "public": 4,
-      "private": 8,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_4dd80967-7499-4d2f-ac3c-ec838ebc75ef/5/256",
+      "total": 13,
+      "public": 1,
+      "private": 12,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:17:58Z",
+      "observedAt": "2026-10-25T10:19:17Z",
       "history": [
         [
-          1792919878,
-          12,
-          4,
-          8
+          1792905344,
+          13,
+          3,
+          10
+        ],
+        [
+          1792923557,
+          13,
+          1,
+          12
         ]
       ]
     },
@@ -4545,7 +4944,7 @@
       "private": 4,
       "deltaTotal": 0,
       "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:12:07Z",
+      "observedAt": "2026-10-25T10:13:27Z",
       "history": [
         [
           1792899448,
@@ -4582,29 +4981,37 @@
           12,
           8,
           4
+        ],
+        [
+          1792923207,
+          12,
+          8,
+          4
         ]
       ]
     },
     {
-      "id": "wrld_5993198d-e869-414b-bf97-deb424bff63c",
-      "name": "Daybreak ⁄ 黎明",
-      "author": "_Harim",
+      "id": "wrld_3200b9e7-68e4-4a58-bfeb-1f8ed13b8cab",
+      "name": "Card Combat Cove ［Halloween Event］ ［EN ⁄ JP］",
+      "author": "Obsidian Locust",
       "platforms": [
-        "pc"
+        "ios",
+        "pc",
+        "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_73d1222f-a07d-44d8-b71e-da2f27ad3023/7/256",
-      "total": 12,
-      "public": 1,
-      "private": 11,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6f21c2fb-c9de-4f6f-89fb-47f08b8f2a51/10/256",
+      "total": 11,
+      "public": 2,
+      "private": 9,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:18:34Z",
+      "observedAt": "2026-10-25T10:22:18Z",
       "history": [
         [
-          1792919914,
-          12,
-          1,
-          11
+          1792923738,
+          11,
+          2,
+          9
         ]
       ]
     },
@@ -4616,12 +5023,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1a8781b6-332f-45a3-99f0-f0c2da6c5e4d/5/256",
-      "total": 12,
-      "public": 10,
+      "total": 11,
+      "public": 9,
       "private": 2,
-      "deltaTotal": -2,
-      "deltaPublic": -2,
-      "observedAt": "2026-10-25T09:11:49Z",
+      "deltaTotal": -1,
+      "deltaPublic": -1,
+      "observedAt": "2026-10-25T10:14:58Z",
       "history": [
         [
           1792899610,
@@ -4664,6 +5071,267 @@
           12,
           10,
           2
+        ],
+        [
+          1792923298,
+          11,
+          9,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "wrld_3dcabc45-b66b-4d38-abaa-d2922ca4d678",
+      "name": "Beyond a bit - 想像のちょっと先へ",
+      "author": "EstyOctober",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_831d3277-b373-4deb-bc6a-04a0227682e0/7/256",
+      "total": 10,
+      "public": 3,
+      "private": 7,
+      "deltaTotal": -6,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:16:15Z",
+      "history": [
+        [
+          1792898622,
+          27,
+          20,
+          7
+        ],
+        [
+          1792901708,
+          42,
+          21,
+          21
+        ],
+        [
+          1792905223,
+          31,
+          13,
+          18
+        ],
+        [
+          1792908793,
+          16,
+          3,
+          13
+        ],
+        [
+          1792912440,
+          22,
+          9,
+          13
+        ],
+        [
+          1792919756,
+          16,
+          3,
+          13
+        ],
+        [
+          1792923375,
+          10,
+          3,
+          7
+        ]
+      ]
+    },
+    {
+      "id": "wrld_5e871de2-d890-43c0-8767-cf7101e3671c",
+      "name": "ぼたも町",
+      "author": "ぼたもちゃん",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3e1ea612-874f-4406-906c-afd576dbb1ac/7/256",
+      "total": 9,
+      "public": 9,
+      "private": 0,
+      "deltaTotal": 0,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:14:32Z",
+      "history": [
+        [
+          1792902101,
+          6,
+          5,
+          1
+        ],
+        [
+          1792912766,
+          3,
+          3,
+          0
+        ],
+        [
+          1792916157,
+          9,
+          9,
+          0
+        ],
+        [
+          1792919532,
+          9,
+          9,
+          0
+        ],
+        [
+          1792923272,
+          9,
+          9,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_09e6752e-f412-4794-8c07-92d65af0f759",
+      "name": "Victory of Round -v2․50-",
+      "author": "M-UE（真上）",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_574b498c-46ba-4733-abfa-d2eb06f83f59/11/256",
+      "total": 8,
+      "public": 4,
+      "private": 4,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:15:51Z",
+      "history": [
+        [
+          1792899480,
+          31,
+          7,
+          24
+        ],
+        [
+          1792923351,
+          8,
+          4,
+          4
+        ]
+      ]
+    },
+    {
+      "id": "wrld_c8c58e1c-0ae2-4351-9c99-864513c7d2db",
+      "name": "JOY˸LAND ｜ パチスロ風ゲームワールド",
+      "author": "かれすこ",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_685bd2a8-f426-40a6-af87-29db3b44c4fc/4/256",
+      "total": 8,
+      "public": 5,
+      "private": 3,
+      "deltaTotal": 1,
+      "deltaPublic": 1,
+      "observedAt": "2026-10-25T10:17:59Z",
+      "history": [
+        [
+          1792909062,
+          16,
+          6,
+          10
+        ],
+        [
+          1792912703,
+          16,
+          8,
+          8
+        ],
+        [
+          1792916135,
+          11,
+          7,
+          4
+        ],
+        [
+          1792919784,
+          7,
+          4,
+          3
+        ],
+        [
+          1792923479,
+          8,
+          5,
+          3
+        ]
+      ]
+    },
+    {
+      "id": "wrld_cb8a80b2-de72-49d2-ac5d-d750f948877e",
+      "name": "めたモグ-MetamogphoseLab․【VirtualSanrioPuroland】",
+      "author": "Gugenka",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_629607b8-b960-41af-a424-df7346ef21eb/4/256",
+      "total": 8,
+      "public": 1,
+      "private": 7,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:06Z",
+      "history": [
+        [
+          1792899421,
+          33,
+          8,
+          25
+        ],
+        [
+          1792901864,
+          23,
+          8,
+          15
+        ],
+        [
+          1792905561,
+          15,
+          1,
+          14
+        ],
+        [
+          1792923666,
+          8,
+          1,
+          7
+        ]
+      ]
+    },
+    {
+      "id": "wrld_f6cbfe07-2fc0-4e3e-abf8-c048b31c3f8e",
+      "name": "Backspace",
+      "author": "You are amazing",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_10856257-fe6e-45b0-982e-c6733860d5dd/3/256",
+      "total": 8,
+      "public": 3,
+      "private": 5,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:19:39Z",
+      "history": [
+        [
+          1792923579,
+          8,
+          3,
+          5
         ]
       ]
     },
@@ -4676,12 +5344,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_41dd056f-2feb-4bd5-b765-dec644b571ad/6/256",
-      "total": 11,
-      "public": 11,
+      "total": 7,
+      "public": 7,
       "private": 0,
-      "deltaTotal": 3,
-      "deltaPublic": 3,
-      "observedAt": "2026-10-25T09:12:29Z",
+      "deltaTotal": -4,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:13:41Z",
       "history": [
         [
           1792899195,
@@ -4724,72 +5392,273 @@
           11,
           11,
           0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_6f55a286-b851-4d3e-8933-e7a31138edd7",
-      "name": "PokoPeaLand",
-      "author": "PPLSTAFF01",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_908af685-3111-4660-9445-402ca6eb5322/8/256",
-      "total": 11,
-      "public": 2,
-      "private": 9,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:19:50Z",
-      "history": [
-        [
-          1792905515,
-          6,
-          4,
-          2
         ],
         [
-          1792919990,
-          11,
-          2,
-          9
+          1792923221,
+          7,
+          7,
+          0
         ]
       ]
     },
     {
-      "id": "wrld_94cefae2-05b5-4b15-9113-1cf76f06f29b",
-      "name": "Ball Rider",
-      "author": "kurashizu",
+      "id": "wrld_440dd65c-7f97-4216-bee3-ae90d7cbc40b",
+      "name": "楽器の練習をしています",
+      "author": "チャーハンVRC",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_431688ab-0dcf-41ea-ad9d-4e375c78bc3c/12/256",
-      "total": 11,
-      "public": 2,
-      "private": 9,
-      "deltaTotal": -4,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:14:36Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_201d0789-7e98-4544-844c-1b10ec8d1ea4/5/256",
+      "total": 7,
+      "public": 7,
+      "private": 0,
+      "deltaTotal": 0,
+      "deltaPublic": 4,
+      "observedAt": "2026-10-25T10:15:24Z",
       "history": [
         [
-          1792899724,
-          16,
-          0,
-          16
+          1792905480,
+          8,
+          8,
+          0
         ],
         [
-          1792916266,
-          15,
+          1792909025,
+          5,
+          5,
+          0
+        ],
+        [
+          1792919886,
+          7,
           3,
-          12
+          4
         ],
         [
-          1792919676,
-          11,
+          1792923324,
+          7,
+          7,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_4cdf3215-e7e6-475d-aebe-ef605d320119",
+      "name": "【JP】Qじゃぱん横丁 -Q Japan Street-",
+      "author": "∗kurikin∗",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3472e203-81a7-4d88-9139-a911b5ca14cb/14/256",
+      "total": 7,
+      "public": 7,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:14:09Z",
+      "history": [
+        [
+          1792923249,
+          7,
+          7,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_c77b4a65-6bd2-4deb-bd6c-a23da9f982c4",
+      "name": "ファミレスじょんせな（仮）",
+      "author": "SenaTabuchi",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_607b3db1-44d4-4c30-8b3b-9b237c87dc19/11/256",
+      "total": 7,
+      "public": 7,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:16:05Z",
+      "history": [
+        [
+          1792923365,
+          7,
+          7,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_f6af50b7-734a-41c3-9995-c8a6e4ae0764",
+      "name": "-Ifの世界設定- ミュージックワールド",
+      "author": "いちごくん45",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d71a9e46-db0c-40af-ba4e-a0b3ed646a42/1/256",
+      "total": 7,
+      "public": 5,
+      "private": 2,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:17:05Z",
+      "history": [
+        [
+          1792923425,
+          7,
+          5,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "wrld_3a77345d-6d47-4cd3-9ac0-550a6df215bb",
+      "name": "Akimio⁄秋澪",
+      "author": "柚子なの",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_b81dabfa-a36b-48cb-aa23-6d9c98519596/1/256",
+      "total": 6,
+      "public": 3,
+      "private": 3,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:56Z",
+      "history": [
+        [
+          1792912626,
+          17,
+          4,
+          13
+        ],
+        [
+          1792923716,
+          6,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "id": "wrld_55ad5d96-6593-422b-b2d5-9756f6c93301",
+      "name": "霞ノ社 kasumi no yashiro",
+      "author": "ゆうじろー",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d5bee871-7238-4b33-901d-aa49ea6f6e75/5/256",
+      "total": 6,
+      "public": 2,
+      "private": 4,
+      "deltaTotal": 1,
+      "deltaPublic": -3,
+      "observedAt": "2026-10-25T10:19:25Z",
+      "history": [
+        [
+          1792919747,
+          5,
+          5,
+          0
+        ],
+        [
+          1792923565,
+          6,
           2,
-          9
+          4
+        ]
+      ]
+    },
+    {
+      "id": "wrld_8ca15987-54f5-46c7-bb53-60a5c69582be",
+      "name": "Avatar Museum 13",
+      "author": "おおかみちゃん",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d4b5dd94-850d-4615-ae55-bdd682612696/2/256",
+      "total": 6,
+      "public": 1,
+      "private": 5,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:19:34Z",
+      "history": [
+        [
+          1792923574,
+          6,
+          1,
+          5
+        ]
+      ]
+    },
+    {
+      "id": "wrld_b5ed19cb-cf04-481c-833a-9833138ff668",
+      "name": "VR宇宙博物館コスモリア Cosmoria［EN ⁄ JP ⁄ KR ⁄ zh-CN ⁄ zh-TW］",
+      "author": "vsp_vrc",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_5bfcdfe1-3686-4729-b2a9-53c319384589/3/256",
+      "total": 6,
+      "public": 5,
+      "private": 1,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:16:38Z",
+      "history": [
+        [
+          1792923398,
+          6,
+          5,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "wrld_cb47f62e-c8b2-4a5b-8471-cb0f72ec064b",
+      "name": "哲学カフェ 芳紅 （ぽこ） 堂 - Cafe Poko-Do",
+      "author": "ぽこ（芳紅）",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3fa18728-33ac-4f35-936a-11e8404f1d2c/9/256",
+      "total": 6,
+      "public": 6,
+      "private": 0,
+      "deltaTotal": 0,
+      "deltaPublic": 0,
+      "observedAt": "2026-10-25T10:19:07Z",
+      "history": [
+        [
+          1792909011,
+          9,
+          9,
+          0
+        ],
+        [
+          1792912910,
+          4,
+          4,
+          0
+        ],
+        [
+          1792919735,
+          6,
+          6,
+          0
+        ],
+        [
+          1792923547,
+          6,
+          6,
+          0
         ]
       ]
     },
@@ -4803,12 +5672,12 @@
         "quest"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_c17ce642-b1ca-4fa9-b8f8-e5339dd2ee40/2/256",
-      "total": 10,
-      "public": 7,
+      "total": 5,
+      "public": 2,
       "private": 3,
-      "deltaTotal": -4,
-      "deltaPublic": -4,
-      "observedAt": "2026-10-25T09:12:52Z",
+      "deltaTotal": -5,
+      "deltaPublic": -5,
+      "observedAt": "2026-10-25T10:16:47Z",
       "history": [
         [
           1792901873,
@@ -4839,157 +5708,106 @@
           10,
           7,
           3
+        ],
+        [
+          1792923407,
+          5,
+          2,
+          3
         ]
       ]
     },
     {
-      "id": "wrld_57437f71-f642-4d8a-9b62-7ac200d16e71",
-      "name": "KR-JP 日本語話者のための韓国語勉強｜Korean Study for Japanese",
-      "author": "御寿司太郎",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_456b6a5e-af64-497b-9d00-b05b7716c9aa/3/256",
-      "total": 10,
-      "public": 8,
-      "private": 2,
-      "deltaTotal": 0,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:11:00Z",
-      "history": [
-        [
-          1792912476,
-          9,
-          7,
-          2
-        ],
-        [
-          1792916048,
-          10,
-          9,
-          1
-        ],
-        [
-          1792919460,
-          10,
-          8,
-          2
-        ]
-      ]
-    },
-    {
-      "id": "wrld_035a2859-d85f-4475-b9e5-891978589da7",
-      "name": "KOGE's Workplace",
-      "author": "KOGE1NU",
+      "id": "wrld_5943f38e-f8ec-4e59-bada-1145b02a0a84",
+      "name": "名古屋 大須商店街 フォトグラメトリ",
+      "author": "らぃむ（dimebag29）",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d9e4da24-91f6-4fa0-96f5-c1491b17c319/16/256",
-      "total": 9,
-      "public": 6,
-      "private": 3,
-      "deltaTotal": 3,
-      "deltaPublic": 3,
-      "observedAt": "2026-10-25T09:13:54Z",
-      "history": [
-        [
-          1792916521,
-          6,
-          3,
-          3
-        ],
-        [
-          1792919634,
-          9,
-          6,
-          3
-        ]
-      ]
-    },
-    {
-      "id": "wrld_4aebef30-f891-4cec-9fa9-d13599732f9b",
-      "name": "ガンナガン ⁄ GUN AND GUN",
-      "author": "mouri314",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_785f7eab-3a5b-4e58-97af-1ee03356f331/9/256",
-      "total": 9,
-      "public": 9,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a037d8f5-8b60-4bee-a220-6d06f5c1e6ca/3/256",
+      "total": 5,
+      "public": 5,
       "private": 0,
-      "deltaTotal": -3,
-      "deltaPublic": -1,
-      "observedAt": "2026-10-25T09:12:16Z",
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:18:59Z",
       "history": [
         [
-          1792909003,
-          11,
-          8,
-          3
-        ],
-        [
-          1792912562,
-          11,
-          8,
-          3
-        ],
-        [
-          1792916162,
-          12,
-          10,
-          2
-        ],
-        [
-          1792919536,
-          9,
-          9,
+          1792923539,
+          5,
+          5,
           0
         ]
       ]
     },
     {
-      "id": "wrld_5e871de2-d890-43c0-8767-cf7101e3671c",
-      "name": "ぼたも町",
-      "author": "ぼたもちゃん",
+      "id": "wrld_7b49b124-a144-4048-80a4-35276b72d738",
+      "name": "退勤",
+      "author": "よけいっ",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6d05e082-50f0-4c18-a77c-5909d11aeba3/2/256",
+      "total": 5,
+      "public": 4,
+      "private": 1,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:19:21Z",
+      "history": [
+        [
+          1792923561,
+          5,
+          4,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "wrld_99b6d607-2361-4faf-bb7c-63c3634eee7f",
+      "name": "HATSUNE MIKU YOZORA PROGRAM 2025",
+      "author": "Gugenka",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3e1ea612-874f-4406-906c-afd576dbb1ac/7/256",
-      "total": 9,
-      "public": 9,
-      "private": 0,
-      "deltaTotal": 0,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:12:12Z",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_da607bab-2a63-420b-96f1-a26ac66bbcc5/2/256",
+      "total": 5,
+      "public": 3,
+      "private": 2,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:17:41Z",
       "history": [
         [
-          1792902101,
-          6,
+          1792923461,
           5,
+          3,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "wrld_eecfde83-f20d-443e-93da-1a41916fc53d",
+      "name": "Noctiluca",
+      "author": "黒熊１３",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a4adba0a-22bb-4ea1-b0c7-f37ae809542e/4/256",
+      "total": 5,
+      "public": 4,
+      "private": 1,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:18:13Z",
+      "history": [
+        [
+          1792923493,
+          5,
+          4,
           1
-        ],
-        [
-          1792912766,
-          3,
-          3,
-          0
-        ],
-        [
-          1792916157,
-          9,
-          9,
-          0
-        ],
-        [
-          1792919532,
-          9,
-          9,
-          0
         ]
       ]
     },
@@ -5001,12 +5819,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_615dee4a-e71d-40a6-a827-b833462f606a/22/256",
-      "total": 8,
-      "public": 8,
+      "total": 4,
+      "public": 4,
       "private": 0,
-      "deltaTotal": 0,
-      "deltaPublic": 0,
-      "observedAt": "2026-10-25T09:12:25Z",
+      "deltaTotal": -4,
+      "deltaPublic": -4,
+      "observedAt": "2026-10-25T10:17:09Z",
       "history": [
         [
           1792899434,
@@ -5049,214 +5867,314 @@
           8,
           8,
           0
+        ],
+        [
+          1792923429,
+          4,
+          4,
+          0
         ]
       ]
     },
     {
-      "id": "wrld_8fcb7756-2593-4fe7-9a84-e8c57aba77a4",
-      "name": "CHILL HOME｜Cozy Nightfall ~ぬくもりの夜更け~",
-      "author": "DISPLAY_MONITOR",
+      "id": "wrld_11dc7fba-89ab-4fc4-9cfe-efc8efcbcfd3",
+      "name": "Batting Cage Baseball",
+      "author": "StraightWhisky",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e1979981-d881-4ba2-97ff-f2ec797f0e1c/5/256",
+      "total": 4,
+      "public": 4,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:17:27Z",
+      "history": [
+        [
+          1792923447,
+          4,
+          4,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_38ac4ad8-e19c-4d67-9031-b75d7698e4dc",
+      "name": "BOAT RACE 虫恋（虫恋競艇）",
+      "author": "眞白みあ",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ca6732b8-5f55-45de-8b1c-1baaea5b3948/3/256",
-      "total": 8,
-      "public": 6,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_298766b8-5757-4e49-a60d-b757c3ed16dd/2/256",
+      "total": 4,
+      "public": 3,
+      "private": 1,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:22:05Z",
+      "history": [
+        [
+          1792923725,
+          4,
+          3,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "wrld_39327a8b-97ac-4b4e-92dc-2a30d55a7c59",
+      "name": "何か価値観を数字にして順番に並べれたら気持ちいいゲーム",
+      "author": "Mimi sippo",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_0e78d97d-e909-40ad-8f35-ec0e3697583e/3/256",
+      "total": 4,
+      "public": 4,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:18:46Z",
+      "history": [
+        [
+          1792923526,
+          4,
+          4,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_4a1cafa9-769b-41f9-a87e-0d75babe7c26",
+      "name": "Slav world ♯3.1.3 padik",
+      "author": "bomber5761",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_33bdb476-75bd-439f-b87c-68cb88d5f85a/2/256",
+      "total": 4,
+      "public": 4,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:15:43Z",
+      "history": [
+        [
+          1792923343,
+          4,
+          4,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_51756605-9930-4c32-baa9-fbd6ee653b3e",
+      "name": "君との距離を教えて",
+      "author": "nirumo",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ee33df1b-c9b9-40b8-a00e-aa323739eaac/4/256",
+      "total": 4,
+      "public": 4,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:19:03Z",
+      "history": [
+        [
+          1792923543,
+          4,
+          4,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_02deb4db-fd76-42e0-808e-dce67dd2006e",
+      "name": "ととのえ！あるぴのガチサウナ！",
+      "author": "あるぴ！",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_db75197a-c6df-40b0-a504-9e91a89b8c38/3/256",
+      "total": 3,
+      "public": 1,
       "private": 2,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:13:01Z",
+      "observedAt": "2026-10-25T10:18:36Z",
       "history": [
         [
-          1792919581,
-          8,
-          6,
+          1792923516,
+          3,
+          1,
           2
         ]
       ]
     },
     {
-      "id": "wrld_f9779f9d-623a-40d5-a7e6-c55315e237bd",
-      "name": "このワールドはお祓いを済ませておりません - Occult Night",
-      "author": "浜名湖なこ",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_df974bc3-db22-431f-b3a6-82698b917d49/1/256",
-      "total": 8,
-      "public": 5,
-      "private": 3,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:17:44Z",
-      "history": [
-        [
-          1792919864,
-          8,
-          5,
-          3
-        ]
-      ]
-    },
-    {
-      "id": "wrld_440dd65c-7f97-4216-bee3-ae90d7cbc40b",
-      "name": "楽器の練習をしています",
-      "author": "チャーハンVRC",
+      "id": "wrld_4c0ecedb-a468-4b08-82d5-e338f00d33cc",
+      "name": "HATSUNE MIKU YOZORA PROGRAM 2026",
+      "author": "Gugenka",
       "platforms": [
         "ios",
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_201d0789-7e98-4544-844c-1b10ec8d1ea4/5/256",
-      "total": 7,
-      "public": 3,
-      "private": 4,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_5e88f2a6-889d-4078-80dc-487e0f111efb/3/256",
+      "total": 3,
+      "public": 2,
+      "private": 1,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:18:06Z",
+      "observedAt": "2026-10-25T10:17:45Z",
       "history": [
         [
-          1792905480,
-          8,
-          8,
-          0
-        ],
-        [
-          1792909025,
-          5,
-          5,
-          0
-        ],
-        [
-          1792919886,
-          7,
+          1792916509,
           3,
-          4
+          2,
+          1
+        ],
+        [
+          1792923465,
+          3,
+          2,
+          1
         ]
       ]
     },
     {
-      "id": "wrld_7778bfbb-ed3e-46c1-ad5f-ffcf601fe860",
-      "name": "～いちゃいちゃマッチング～［OpenBeta］",
-      "author": "ғɪᴄᴛɪᴏɴ",
+      "id": "wrld_929c02a8-780f-493c-8a68-72125b7b6b53",
+      "name": "Daydreaming ⁄ 夢想",
+      "author": "_Harim",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_27e5c9f1-69fe-487f-b59f-520b058f589a/3/256",
-      "total": 7,
-      "public": 7,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_6abf80bb-581b-4dd4-9287-8a8cc2e6962a/2/256",
+      "total": 3,
+      "public": 1,
+      "private": 2,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:22:41Z",
+      "history": [
+        [
+          1792923761,
+          3,
+          1,
+          2
+        ]
+      ]
+    },
+    {
+      "id": "wrld_af25c666-c7d3-4b19-9bc4-c9988459a6cd",
+      "name": "桜降る代に決闘を ⁄Sakura Arms",
+      "author": "REARV_CHAN",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_f2f1a0f4-a9f5-4075-8ff6-a04c9e3116bd/2/256",
+      "total": 3,
+      "public": 3,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:42Z",
+      "history": [
+        [
+          1792905407,
+          8,
+          8,
+          0
+        ],
+        [
+          1792908968,
+          8,
+          8,
+          0
+        ],
+        [
+          1792912667,
+          6,
+          6,
+          0
+        ],
+        [
+          1792916418,
+          5,
+          5,
+          0
+        ],
+        [
+          1792923702,
+          3,
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_b177e242-dbfd-4b8d-b396-fa72096ac535",
+      "name": "Karaoke TORI 토리 노래방",
+      "author": "ＴＯＲＩ",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a14c097a-9882-4d09-8765-932321ff8a39/24/256",
+      "total": 3,
+      "public": 3,
       "private": 0,
       "deltaTotal": -11,
       "deltaPublic": -11,
-      "observedAt": "2026-10-25T09:12:02Z",
+      "observedAt": "2026-10-25T10:12:28Z",
       "history": [
         [
-          1792912495,
-          10,
-          10,
-          0
-        ],
-        [
-          1792915962,
-          18,
-          18,
-          0
-        ],
-        [
-          1792919522,
-          7,
-          7,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_c2ce92a8-b28e-42ea-816d-bde2611a7ab4",
-      "name": "みつはしガラス工芸",
-      "author": "Mituhashiyu_i",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_abc009b9-0786-4523-a134-f78ff420b478/5/256",
-      "total": 7,
-      "public": 1,
-      "private": 6,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:14:26Z",
-      "history": [
-        [
-          1792919666,
-          7,
-          1,
-          6
-        ]
-      ]
-    },
-    {
-      "id": "wrld_c8c58e1c-0ae2-4351-9c99-864513c7d2db",
-      "name": "JOY˸LAND ｜ パチスロ風ゲームワールド",
-      "author": "かれすこ",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_685bd2a8-f426-40a6-af87-29db3b44c4fc/4/256",
-      "total": 7,
-      "public": 4,
-      "private": 3,
-      "deltaTotal": -4,
-      "deltaPublic": -3,
-      "observedAt": "2026-10-25T09:16:24Z",
-      "history": [
-        [
-          1792909062,
-          16,
-          6,
-          10
-        ],
-        [
-          1792912703,
-          16,
-          8,
-          8
-        ],
-        [
-          1792916135,
+          1792899779,
           11,
           7,
           4
         ],
         [
-          1792919784,
-          7,
-          4,
-          3
-        ]
-      ]
-    },
-    {
-      "id": "wrld_37ea901e-fc4a-4225-a6fa-d92ccee99d72",
-      "name": "きんに君と筋トレできる部屋",
-      "author": "メルヘンギャング",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_92ca6003-576b-452e-9621-b45d292e326d/4/256",
-      "total": 6,
-      "public": 3,
-      "private": 3,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:20:45Z",
-      "history": [
+          1792901788,
+          16,
+          8,
+          8
+        ],
         [
-          1792920045,
-          6,
+          1792905434,
+          16,
+          4,
+          12
+        ],
+        [
+          1792909161,
+          13,
+          5,
+          8
+        ],
+        [
+          1792912514,
+          20,
+          11,
+          9
+        ],
+        [
+          1792919469,
+          14,
+          14,
+          0
+        ],
+        [
+          1792923148,
           3,
-          3
+          3,
+          0
         ]
       ]
     },
@@ -5268,12 +6186,12 @@
         "pc"
       ],
       "thumbnail": "https://api.vrchat.cloud/api/1/image/file_7fb5e09a-4c23-434a-aa53-a7d334cecf24/2/256",
-      "total": 6,
-      "public": 6,
+      "total": 3,
+      "public": 3,
       "private": 0,
-      "deltaTotal": -2,
-      "deltaPublic": -2,
-      "observedAt": "2026-10-25T09:13:31Z",
+      "deltaTotal": -3,
+      "deltaPublic": -3,
+      "observedAt": "2026-10-25T10:21:23Z",
       "history": [
         [
           1792912658,
@@ -5292,318 +6210,57 @@
           6,
           6,
           0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_cb47f62e-c8b2-4a5b-8471-cb0f72ec064b",
-      "name": "哲学カフェ 芳紅 （ぽこ） 堂 - Cafe Poko-Do",
-      "author": "ぽこ（芳紅）",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3fa18728-33ac-4f35-936a-11e8404f1d2c/9/256",
-      "total": 6,
-      "public": 6,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:35Z",
-      "history": [
-        [
-          1792909011,
-          9,
-          9,
-          0
         ],
         [
-          1792912910,
-          4,
-          4,
-          0
-        ],
-        [
-          1792919735,
-          6,
-          6,
+          1792923683,
+          3,
+          3,
           0
         ]
       ]
     },
     {
-      "id": "wrld_3ff452e6-075d-486d-87f3-92900e1142db",
-      "name": "Drawing Zone",
-      "author": "Estebantby",
+      "id": "wrld_ecaa4eb6-7245-41b8-9f9d-0610a5238d0a",
+      "name": "Bar HiMARAYA",
+      "author": "Macallan1946",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_502df0f2-f184-40d0-b32a-5f5a054a6351/9/256",
-      "total": 5,
-      "public": 3,
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_09ff1566-0daf-42d9-b98e-19ebdb049c02/3/256",
+      "total": 3,
+      "public": 1,
       "private": 2,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:18:39Z",
+      "observedAt": "2026-10-25T10:17:23Z",
       "history": [
         [
-          1792919919,
-          5,
+          1792923443,
           3,
+          1,
           2
         ]
       ]
     },
     {
-      "id": "wrld_55ad5d96-6593-422b-b2d5-9756f6c93301",
-      "name": "霞ノ社 kasumi no yashiro",
-      "author": "ゆうじろー",
+      "id": "wrld_3a201318-33c2-4c4c-8310-163552f80d63",
+      "name": "猫和室 - modern",
+      "author": "nekobako",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d5bee871-7238-4b33-901d-aa49ea6f6e75/5/256",
-      "total": 5,
-      "public": 5,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:47Z",
-      "history": [
-        [
-          1792919747,
-          5,
-          5,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_b8234717-ec24-43d9-9acb-d8a4e4b5fd04",
-      "name": "RAMOVER Company game",
-      "author": "MOGODIk_COZZ",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_7b2a8bf3-352f-40ee-850b-cf3205045dd7/7/256",
-      "total": 5,
-      "public": 5,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:14:54Z",
-      "history": [
-        [
-          1792919694,
-          5,
-          5,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_fd5c5c0b-17d3-44ce-a4ed-2b052b5e2710",
-      "name": "Backspace 2",
-      "author": "You are amazing",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_a44736fd-d5e5-4bc3-ac84-79b2d5965158/4/256",
-      "total": 5,
-      "public": 0,
-      "private": 5,
-      "deltaTotal": -4,
-      "deltaPublic": -6,
-      "observedAt": "2026-10-25T09:13:45Z",
-      "history": [
-        [
-          1792916463,
-          9,
-          6,
-          3
-        ],
-        [
-          1792919625,
-          5,
-          0,
-          5
-        ]
-      ]
-    },
-    {
-      "id": "wrld_389a4930-2436-48a3-a5ba-e2154bcd96f5",
-      "name": "ちびとら焼肉部",
-      "author": "稲狐夜憑宵",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_54d75426-8b0d-4716-a8cd-c101566fa6e0/3/256",
-      "total": 4,
-      "public": 4,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:17:48Z",
-      "history": [
-        [
-          1792919868,
-          4,
-          4,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_457d691a-ccaf-46e5-9978-70171cd502c2",
-      "name": "JUST 七並べ",
-      "author": "fluffite｜フラファイト",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_98af7cd0-f50c-4dbf-a4ec-f8627e3d76ea/4/256",
-      "total": 4,
-      "public": 4,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:16:28Z",
-      "history": [
-        [
-          1792919788,
-          4,
-          4,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_6453819d-a12a-44b4-b32a-b2d34a31e8fb",
-      "name": "Pripara Town （プリパラ 美妙天堂）",
-      "author": "Yeung Kai Lung",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ac79a0c6-5022-451e-a7ca-378f6169d0d4/3/256",
-      "total": 4,
-      "public": 4,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:19:54Z",
-      "history": [
-        [
-          1792919994,
-          4,
-          4,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_6b59f1f4-1039-4ef1-951e-c135c6bf8d19",
-      "name": "ホラワマッチング ～ホラワに一緒に行こう 10⁄24 更新",
-      "author": "じょにぽん",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_81920e9f-fd41-454f-8e19-5b467a78a220/4/256",
-      "total": 4,
-      "public": 4,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:15:30Z",
-      "history": [
-        [
-          1792912771,
-          9,
-          9,
-          0
-        ],
-        [
-          1792919730,
-          4,
-          4,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_128af749-15ff-4495-8032-f39f7efef71a",
-      "name": "They are Hunting You",
-      "author": "Bella Strange~",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_56ef4225-2a82-4a55-acf3-699c345b5aca/5/256",
-      "total": 3,
-      "public": 0,
-      "private": 3,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:17:17Z",
-      "history": [
-        [
-          1792919837,
-          3,
-          0,
-          3
-        ]
-      ]
-    },
-    {
-      "id": "wrld_b19a48cb-8784-4303-907d-3562032114c8",
-      "name": "サバノ飛行場観光センター -Sabano Aerodrome Tourist center-",
-      "author": "Yakisaba dayo",
-      "platforms": [
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_7837be95-3504-47ab-9f94-588d82b32975/3/256",
-      "total": 3,
-      "public": 3,
-      "private": 0,
-      "deltaTotal": null,
-      "deltaPublic": null,
-      "observedAt": "2026-10-25T09:17:53Z",
-      "history": [
-        [
-          1792919873,
-          3,
-          3,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_531cda6c-6940-4f98-8270-d8d0869c198b",
-      "name": "Vintage Monaco",
-      "author": "Vandal_5609",
-      "platforms": [
-        "pc"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d51fbd6a-1380-4204-beaa-b122b7d608a3/2/256",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_87d048c7-e450-4bac-b6ff-d3e531a159e8/5/256",
       "total": 2,
       "public": 2,
       "private": 0,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:20:22Z",
+      "observedAt": "2026-10-25T10:21:47Z",
       "history": [
         [
-          1792920022,
+          1792923707,
           2,
           2,
           0
@@ -5611,29 +6268,23 @@
       ]
     },
     {
-      "id": "wrld_736bad27-4663-4346-a345-26e1e859d94e",
-      "name": "Japan Shrine",
-      "author": "ITOAR",
+      "id": "wrld_90eef743-dcc5-4d31-bc07-149536c192e1",
+      "name": "Autumn fragrance ⁄ 秋の香り",
+      "author": "_Harim",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d9b28862-8e60-4f10-be62-28ea1dc9f260/13/256",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_3190bfa0-c19f-4a77-984c-10db7faea787/10/256",
       "total": 2,
       "public": 2,
       "private": 0,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:11:58Z",
+      "observedAt": "2026-10-25T10:22:00Z",
       "history": [
         [
-          1792912816,
-          3,
-          3,
-          0
-        ],
-        [
-          1792919518,
+          1792923720,
           2,
           2,
           0
@@ -5641,108 +6292,96 @@
       ]
     },
     {
-      "id": "wrld_23ee1841-7a52-4434-b69b-a85b10ab99e1",
-      "name": "PyPyPiano piano piano piano piano piano piano piano piano piano piano piano piano piano piano piano piano piano piano piano",
-      "author": "pypy",
+      "id": "wrld_66431182-f46c-45c9-9c8e-ba7f47c10177",
+      "name": "VROOM VROOM DRIVE",
+      "author": "PROTOCO",
       "platforms": [
         "pc",
         "quest"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e0552700-452c-495d-ad5d-560560445b41/3/256",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_37d0a59c-96ff-4080-bb45-25d63312516a/2/256",
       "total": 1,
       "public": 1,
-      "private": 0,
-      "deltaTotal": -7,
-      "deltaPublic": -5,
-      "observedAt": "2026-10-25T09:14:22Z",
-      "history": [
-        [
-          1792916195,
-          8,
-          6,
-          2
-        ],
-        [
-          1792919662,
-          1,
-          1,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_5792ff91-8d3d-4d4d-961b-1e08eca02dc6",
-      "name": "Meow×２House",
-      "author": "喜多方にゃん吉",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_97338168-3115-41da-bc18-84095106a222/2/256",
-      "total": 1,
-      "public": 1,
-      "private": 0,
-      "deltaTotal": -4,
-      "deltaPublic": -2,
-      "observedAt": "2026-10-25T09:19:23Z",
-      "history": [
-        [
-          1792916534,
-          5,
-          3,
-          2
-        ],
-        [
-          1792919963,
-          1,
-          1,
-          0
-        ]
-      ]
-    },
-    {
-      "id": "wrld_053afeb2-ce73-483f-9d1d-6614974c3354",
-      "name": "やこうれっしゃ",
-      "author": "tinpan",
-      "platforms": [
-        "ios",
-        "pc",
-        "quest"
-      ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_d0aff832-383d-44cd-a403-3a3b8963d711/4/256",
-      "total": 0,
-      "public": 0,
       "private": 0,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:20:55Z",
+      "observedAt": "2026-10-25T10:20:52Z",
       "history": [
         [
-          1792920055,
-          0,
-          0,
+          1792923652,
+          1,
+          1,
           0
         ]
       ]
     },
     {
-      "id": "wrld_2cc6e428-f2cc-4306-8ee1-d8eb090f622a",
-      "name": "ぼくなつ２再現ワールド（WIP）",
-      "author": "しえら りま",
+      "id": "wrld_68f2eb41-0f9c-4fc1-97ff-e91f23ea9786",
+      "name": "アイドルアライブVR - IDOL-A-LIVE VR -",
+      "author": "VirtualParty",
       "platforms": [
         "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_018234cb-1d34-4127-88f7-7bd0c1fdb549/5/256",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ab5cd74e-3180-4d0b-b069-c1bb5b0b593a/3/256",
+      "total": 1,
+      "public": 0,
+      "private": 1,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:15Z",
+      "history": [
+        [
+          1792923675,
+          1,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "wrld_70ca77f8-cb78-42f9-bbf8-a82cc9a9db6a",
+      "name": "やかん横丁",
+      "author": "甘ダレゆっけ",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_1daed9d0-973b-4868-b533-6be96c4935e0/5/256",
+      "total": 1,
+      "public": 1,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:11Z",
+      "history": [
+        [
+          1792923671,
+          1,
+          1,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_302d5b48-810d-4d65-bb08-8dfd629cba56",
+      "name": "夏宙の休息地 -Summer Starrysky Rest-",
+      "author": "Leiria_vrc",
+      "platforms": [
+        "ios",
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_7d174738-3ec7-4b86-b443-8a5ca4f2c439/3/256",
       "total": 0,
       "public": 0,
       "private": 0,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:20:50Z",
+      "observedAt": "2026-10-25T10:16:42Z",
       "history": [
         [
-          1792920050,
+          1792923402,
           0,
           0,
           0
@@ -5750,23 +6389,69 @@
       ]
     },
     {
-      "id": "wrld_6e0b7074-571b-4ccc-a96e-9df5709d8813",
-      "name": "Petrium",
-      "author": "かみむー。",
+      "id": "wrld_3b1ded52-a41d-40c3-8942-d429d802e4a5",
+      "name": "天気雨のワルツ-Sun shower's Waltz",
+      "author": "HANI․",
       "platforms": [
-        "pc",
-        "quest"
+        "pc"
       ],
-      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_e28b60ae-a627-4d9b-934b-7ad220ec24e3/3/256",
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_ccf44091-0cd2-4f49-9009-d27ff1b06a69/3/256",
       "total": 0,
       "public": 0,
       "private": 0,
       "deltaTotal": null,
       "deltaPublic": null,
-      "observedAt": "2026-10-25T09:19:45Z",
+      "observedAt": "2026-10-25T10:19:12Z",
       "history": [
         [
-          1792919985,
+          1792923552,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_6f7a94c0-64c4-4885-9d87-09ddd5619ffc",
+      "name": "昏いあぜ道",
+      "author": "ねころがり",
+      "platforms": [
+        "pc",
+        "quest"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_cf74b159-71cb-404a-bdff-46e02f20c3d9/2/256",
+      "total": 0,
+      "public": 0,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:21:38Z",
+      "history": [
+        [
+          1792923698,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "wrld_771fbe82-6e2a-4cc3-a0a3-1f3af8f02de4",
+      "name": "乙ケット⁄Otucket-ORBITAL YARD-",
+      "author": "レジの助",
+      "platforms": [
+        "pc"
+      ],
+      "thumbnail": "https://api.vrchat.cloud/api/1/image/file_bdad99e1-fb30-4b33-b712-8f30bd4d4714/6/256",
+      "total": 0,
+      "public": 0,
+      "private": 0,
+      "deltaTotal": null,
+      "deltaPublic": null,
+      "observedAt": "2026-10-25T10:18:41Z",
+      "history": [
+        [
+          1792923521,
           0,
           0,
           0
